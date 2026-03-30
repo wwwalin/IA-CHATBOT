@@ -1,0 +1,1001 @@
+name,brand,category,price,rating,review,doRecommend
+Acer S20,Acer,phone,486,4.8,Highly recommended product,1
+Motorola S18,Motorola,phone,1032,5.0,Battery lasts long and smooth usage,1
+Xiaomi Tab A10,Xiaomi,tablet,695,4.1,Very good for the price,1
+Asus Tab S6,Asus,tablet,206,4.4,Battery lasts long and smooth usage,1
+HP GT15,HP,phone,309,3.7,Excellent quality and design,0
+HP Pro 15,HP,laptop,626,4.3,Great performance and battery life,1
+Motorola Book 13,Motorola,laptop,1081,3.6,Fast and reliable device,0
+Apple Note10,Apple,phone,545,4.8,Excellent quality and design,1
+Asus Tab X8,Asus,tablet,123,4.2,Great performance and battery life,1
+Huawei Flex 6,Huawei,laptop,465,3.5,Great performance and battery life,0
+Dell Flex 14,Dell,laptop,676,4.0,Very good for the price,1
+Samsung Pro 8,Samsung,laptop,1294,4.7,Decent product for daily use,1
+MSI Tab A9,MSI,tablet,603,4.4,Great performance and battery life,1
+Asus Pro21,Asus,phone,837,4.9,Very good for the price,1
+MSI Elite 7,MSI,laptop,572,4.9,Battery lasts long and smooth usage,1
+Lenovo Tab A5,Lenovo,tablet,403,3.8,Great performance and battery life,0
+Lenovo Tab X1,Lenovo,tablet,715,4.7,Works well but could be better,1
+Realme Note21,Realme,phone,1173,4.6,Fast and reliable device,1
+Asus Tab M1,Asus,tablet,781,3.8,Works well but could be better,0
+Microsoft GT13,Microsoft,phone,1078,4.4,Excellent quality and design,1
+Apple GT25,Apple,phone,682,4.1,Works well but could be better,1
+Xiaomi X 8,Xiaomi,laptop,868,4.2,Excellent quality and design,1
+Huawei X28,Huawei,phone,696,4.2,Works well but could be better,1
+Samsung GT25,Samsung,phone,1091,4.7,Works well but could be better,1
+Microsoft Pro 7,Microsoft,laptop,806,4.3,Great performance and battery life,1
+Acer S16,Acer,phone,250,4.1,Not bad but has some issues,1
+Dell Book 10,Dell,laptop,1317,5.0,Highly recommended product,1
+Microsoft Tab X9,Microsoft,tablet,317,4.4,Very good for the price,1
+Dell Tab M9,Dell,tablet,671,4.0,Decent product for daily use,1
+Microsoft X 6,Microsoft,laptop,630,4.6,Very good for the price,1
+Apple Pro25,Apple,phone,668,4.4,Great performance and battery life,1
+Acer Tab M2,Acer,tablet,123,3.5,Very good for the price,0
+Realme Tab M9,Realme,tablet,746,4.8,Excellent quality and design,1
+Lenovo Air 9,Lenovo,laptop,458,3.8,Not bad but has some issues,0
+OnePlus Tab S5,OnePlus,tablet,329,3.9,Excellent quality and design,0
+Motorola Elite 12,Motorola,laptop,443,4.0,Fast and reliable device,1
+Realme Tab S4,Realme,tablet,136,3.9,Amazing experience overall,0
+Microsoft S18,Microsoft,phone,525,4.1,Great performance and battery life,1
+HP Tab X3,HP,tablet,412,3.9,Works well but could be better,0
+OnePlus Tab M2,OnePlus,tablet,576,3.8,Very good for the price,0
+Samsung Tab S2,Samsung,tablet,458,4.8,Highly recommended product,1
+Dell Tab S8,Dell,tablet,488,3.7,Not bad but has some issues,0
+Samsung GT7,Samsung,phone,849,4.4,Very good for the price,1
+Dell Tab X2,Dell,tablet,648,4.5,Decent product for daily use,1
+Huawei Pro25,Huawei,phone,757,4.4,Battery lasts long and smooth usage,1
+Google X27,Google,phone,956,4.1,Battery lasts long and smooth usage,1
+Dell Pro 12,Dell,laptop,777,3.9,Amazing experience overall,0
+Google Elite 4,Google,laptop,746,4.4,Battery lasts long and smooth usage,1
+Microsoft Tab M3,Microsoft,tablet,622,4.3,Amazing experience overall,1
+Huawei Flex 13,Huawei,laptop,1395,4.9,Amazing experience overall,1
+Realme X21,Realme,phone,638,3.6,Not bad but has some issues,0
+Samsung Flex 3,Samsung,laptop,795,4.7,Decent product for daily use,1
+Huawei Pro17,Huawei,phone,800,3.9,Not bad but has some issues,0
+Apple Flex 5,Apple,laptop,655,4.7,Excellent quality and design,1
+OnePlus Tab X3,OnePlus,tablet,453,4.4,Fast and reliable device,1
+MSI Pro16,MSI,phone,1168,3.7,Amazing experience overall,0
+Microsoft Tab M7,Microsoft,tablet,635,3.8,Amazing experience overall,0
+Microsoft Tab S2,Microsoft,tablet,160,4.6,Excellent quality and design,1
+Microsoft X19,Microsoft,phone,166,4.7,Works well but could be better,1
+MSI GT10,MSI,phone,909,4.2,Amazing experience overall,1
+Apple Tab M1,Apple,tablet,427,4.9,Battery lasts long and smooth usage,1
+Motorola X27,Motorola,phone,902,3.6,Great performance and battery life,0
+Dell Pro27,Dell,phone,240,4.2,Amazing experience overall,1
+Huawei Air 14,Huawei,laptop,716,3.7,Great performance and battery life,0
+Asus Tab S10,Asus,tablet,522,4.6,Battery lasts long and smooth usage,1
+Dell GT26,Dell,phone,1192,3.8,Excellent quality and design,0
+HP Pro 5,HP,laptop,971,3.7,Battery lasts long and smooth usage,0
+Motorola Tab X4,Motorola,tablet,218,4.0,Highly recommended product,1
+Acer X15,Acer,phone,484,4.7,Battery lasts long and smooth usage,1
+Lenovo GT22,Lenovo,phone,1111,4.1,Not bad but has some issues,1
+Apple Air 12,Apple,laptop,865,3.8,Fast and reliable device,0
+Lenovo Pro 12,Lenovo,laptop,1368,3.9,Decent product for daily use,0
+OnePlus Tab S10,OnePlus,tablet,137,4.4,Amazing experience overall,1
+Samsung S16,Samsung,phone,992,4.2,Excellent quality and design,1
+MSI GT20,MSI,phone,881,4.2,Works well but could be better,1
+Dell X12,Dell,phone,1164,4.7,Very good for the price,1
+Microsoft Air 9,Microsoft,laptop,1275,4.3,Fast and reliable device,1
+Asus Flex 9,Asus,laptop,588,3.9,Battery lasts long and smooth usage,0
+Asus Book 5,Asus,laptop,500,3.6,Very good for the price,0
+HP Pro6,HP,phone,450,4.6,Highly recommended product,1
+Lenovo S17,Lenovo,phone,617,4.4,Very good for the price,1
+Dell S9,Dell,phone,1185,4.7,Fast and reliable device,1
+Samsung Book 14,Samsung,laptop,1184,4.7,Excellent quality and design,1
+Huawei Tab M9,Huawei,tablet,544,4.3,Amazing experience overall,1
+OnePlus Tab X9,OnePlus,tablet,535,4.6,Battery lasts long and smooth usage,1
+MSI Tab A9,MSI,tablet,382,4.8,Amazing experience overall,1
+OnePlus Tab M10,OnePlus,tablet,231,4.0,Very good for the price,1
+Microsoft Pro 9,Microsoft,laptop,586,4.8,Not bad but has some issues,1
+Dell S8,Dell,phone,1029,4.4,Highly recommended product,1
+HP Book 15,HP,laptop,761,4.7,Amazing experience overall,1
+Apple Tab A4,Apple,tablet,748,3.9,Fast and reliable device,0
+MSI X2,MSI,phone,685,4.9,Battery lasts long and smooth usage,1
+OnePlus Flex 15,OnePlus,laptop,929,4.3,Excellent quality and design,1
+Realme Pro3,Realme,phone,729,4.6,Works well but could be better,1
+OnePlus Tab A5,OnePlus,tablet,770,3.8,Excellent quality and design,0
+Apple S23,Apple,phone,965,4.4,Decent product for daily use,1
+Apple GT10,Apple,phone,1042,4.0,Works well but could be better,1
+Samsung Tab A5,Samsung,tablet,249,4.9,Fast and reliable device,1
+Google GT11,Google,phone,1112,3.9,Fast and reliable device,0
+Asus Tab M10,Asus,tablet,559,5.0,Not bad but has some issues,1
+Realme Tab S3,Realme,tablet,353,3.9,Very good for the price,0
+HP Tab A9,HP,tablet,142,3.8,Battery lasts long and smooth usage,0
+Realme S20,Realme,phone,209,4.1,Battery lasts long and smooth usage,1
+Google Book 8,Google,laptop,1332,3.7,Excellent quality and design,0
+HP X 8,HP,laptop,1359,3.5,Decent product for daily use,0
+MSI S28,MSI,phone,609,4.1,Not bad but has some issues,1
+Asus X 13,Asus,laptop,670,4.6,Very good for the price,1
+MSI Pro 4,MSI,laptop,863,4.2,Not bad but has some issues,1
+Xiaomi GT9,Xiaomi,phone,915,4.5,Battery lasts long and smooth usage,1
+HP Pro24,HP,phone,595,4.3,Battery lasts long and smooth usage,1
+MSI X22,MSI,phone,324,3.7,Decent product for daily use,0
+HP Flex 9,HP,laptop,1477,4.3,Great performance and battery life,1
+Dell Pro 6,Dell,laptop,563,3.6,Amazing experience overall,0
+Samsung Tab S6,Samsung,tablet,566,4.3,Decent product for daily use,1
+Google X 14,Google,laptop,944,3.9,Very good for the price,0
+Lenovo X17,Lenovo,phone,772,3.8,Decent product for daily use,0
+Lenovo Air 6,Lenovo,laptop,865,4.7,Works well but could be better,1
+Lenovo Tab M9,Lenovo,tablet,366,3.9,Decent product for daily use,0
+Microsoft X 8,Microsoft,laptop,559,4.1,Battery lasts long and smooth usage,1
+Lenovo Tab M8,Lenovo,tablet,785,3.8,Great performance and battery life,0
+Google Book 7,Google,laptop,773,4.3,Amazing experience overall,1
+Samsung Tab S5,Samsung,tablet,218,3.6,Fast and reliable device,0
+Apple Tab A1,Apple,tablet,407,4.6,Great performance and battery life,1
+Xiaomi S11,Xiaomi,phone,355,3.6,Battery lasts long and smooth usage,0
+Lenovo Tab S5,Lenovo,tablet,622,4.1,Amazing experience overall,1
+Samsung X 14,Samsung,laptop,1231,4.6,Excellent quality and design,1
+OnePlus Pro26,OnePlus,phone,1068,4.4,Very good for the price,1
+Acer Note10,Acer,phone,819,4.3,Battery lasts long and smooth usage,1
+Apple Tab X2,Apple,tablet,474,3.8,Great performance and battery life,0
+Acer X 10,Acer,laptop,1188,4.4,Decent product for daily use,1
+Realme GT12,Realme,phone,387,4.5,Battery lasts long and smooth usage,1
+Xiaomi Tab M7,Xiaomi,tablet,575,3.6,Great performance and battery life,0
+MSI Tab M5,MSI,tablet,397,3.6,Very good for the price,0
+Dell S25,Dell,phone,802,3.5,Great performance and battery life,0
+MSI Tab S2,MSI,tablet,703,4.9,Decent product for daily use,1
+Huawei Tab M1,Huawei,tablet,707,4.5,Amazing experience overall,1
+Google Pro20,Google,phone,307,5.0,Great performance and battery life,1
+Asus S3,Asus,phone,849,4.8,Works well but could be better,1
+Acer Tab S2,Acer,tablet,200,3.5,Fast and reliable device,0
+Microsoft Tab M1,Microsoft,tablet,697,4.5,Great performance and battery life,1
+HP Note22,HP,phone,631,4.8,Excellent quality and design,1
+OnePlus Pro16,OnePlus,phone,1102,4.6,Not bad but has some issues,1
+HP Note29,HP,phone,661,3.8,Not bad but has some issues,0
+Huawei X 15,Huawei,laptop,1251,4.5,Very good for the price,1
+Xiaomi Tab S2,Xiaomi,tablet,506,4.0,Not bad but has some issues,1
+Samsung Tab M2,Samsung,tablet,656,4.5,Battery lasts long and smooth usage,1
+OnePlus Tab S6,OnePlus,tablet,635,4.3,Highly recommended product,1
+Xiaomi S19,Xiaomi,phone,408,5.0,Excellent quality and design,1
+Huawei Tab M3,Huawei,tablet,339,3.8,Very good for the price,0
+Asus X19,Asus,phone,774,4.3,Great performance and battery life,1
+MSI Air 10,MSI,laptop,1180,3.8,Highly recommended product,0
+Huawei Book 15,Huawei,laptop,586,4.6,Works well but could be better,1
+Google Note14,Google,phone,1163,4.9,Great performance and battery life,1
+Apple Pro 5,Apple,laptop,826,3.7,Not bad but has some issues,0
+Xiaomi X 7,Xiaomi,laptop,711,4.5,Great performance and battery life,1
+MSI Tab S10,MSI,tablet,307,4.5,Works well but could be better,1
+Samsung Flex 6,Samsung,laptop,1176,4.3,Battery lasts long and smooth usage,1
+Lenovo GT20,Lenovo,phone,638,4.4,Not bad but has some issues,1
+Motorola Tab S1,Motorola,tablet,109,4.2,Amazing experience overall,1
+Realme GT25,Realme,phone,783,3.6,Not bad but has some issues,0
+Acer Book 14,Acer,laptop,911,4.8,Great performance and battery life,1
+Xiaomi Tab A5,Xiaomi,tablet,182,3.6,Not bad but has some issues,0
+Acer Tab S1,Acer,tablet,516,3.8,Great performance and battery life,0
+Realme Tab X1,Realme,tablet,258,3.8,Works well but could be better,0
+Apple Pro 13,Apple,laptop,1293,4.0,Amazing experience overall,1
+Realme Tab M10,Realme,tablet,236,3.6,Great performance and battery life,0
+Xiaomi Tab M9,Xiaomi,tablet,636,4.2,Fast and reliable device,1
+Realme Air 15,Realme,laptop,1308,4.4,Amazing experience overall,1
+Microsoft Tab X3,Microsoft,tablet,251,3.8,Battery lasts long and smooth usage,0
+Acer S15,Acer,phone,967,4.8,Battery lasts long and smooth usage,1
+Acer Elite 4,Acer,laptop,737,4.7,Fast and reliable device,1
+MSI S13,MSI,phone,466,3.8,Decent product for daily use,0
+HP X 8,HP,laptop,456,4.1,Highly recommended product,1
+OnePlus Note26,OnePlus,phone,1015,4.4,Decent product for daily use,1
+Lenovo Note18,Lenovo,phone,226,4.3,Very good for the price,1
+Asus S25,Asus,phone,410,4.3,Excellent quality and design,1
+Huawei Flex 11,Huawei,laptop,514,5.0,Not bad but has some issues,1
+Asus Tab M7,Asus,tablet,134,3.9,Not bad but has some issues,0
+Apple Note12,Apple,phone,534,4.6,Very good for the price,1
+Acer Book 4,Acer,laptop,1388,3.8,Fast and reliable device,0
+Dell Tab X7,Dell,tablet,478,3.9,Great performance and battery life,0
+Xiaomi Pro26,Xiaomi,phone,1101,3.6,Not bad but has some issues,0
+Huawei Tab M1,Huawei,tablet,148,3.8,Amazing experience overall,0
+Xiaomi Tab S1,Xiaomi,tablet,236,4.1,Very good for the price,1
+Apple Tab A3,Apple,tablet,270,4.6,Works well but could be better,1
+Xiaomi S19,Xiaomi,phone,464,4.9,Battery lasts long and smooth usage,1
+MSI Tab X7,MSI,tablet,776,4.3,Amazing experience overall,1
+Samsung GT2,Samsung,phone,1094,4.8,Amazing experience overall,1
+Dell Note27,Dell,phone,912,4.0,Excellent quality and design,1
+Huawei Air 6,Huawei,laptop,1380,4.6,Amazing experience overall,1
+Huawei Pro27,Huawei,phone,895,3.7,Works well but could be better,0
+Huawei Book 6,Huawei,laptop,1084,4.9,Works well but could be better,1
+Lenovo Tab S6,Lenovo,tablet,243,4.7,Excellent quality and design,1
+OnePlus Tab M2,OnePlus,tablet,312,4.7,Great performance and battery life,1
+Microsoft Tab M7,Microsoft,tablet,102,4.7,Battery lasts long and smooth usage,1
+Dell Pro 10,Dell,laptop,1000,4.3,Not bad but has some issues,1
+Acer X 7,Acer,laptop,674,4.2,Excellent quality and design,1
+Xiaomi GT30,Xiaomi,phone,1137,3.7,Not bad but has some issues,0
+Lenovo Book 11,Lenovo,laptop,902,4.9,Excellent quality and design,1
+Huawei X19,Huawei,phone,650,3.8,Works well but could be better,0
+HP Tab A7,HP,tablet,293,4.2,Very good for the price,1
+Motorola Elite 5,Motorola,laptop,502,4.3,Amazing experience overall,1
+Motorola Tab M5,Motorola,tablet,737,3.8,Fast and reliable device,0
+Dell S22,Dell,phone,994,3.7,Amazing experience overall,0
+Google Note20,Google,phone,392,4.7,Highly recommended product,1
+Huawei Elite 8,Huawei,laptop,1056,3.5,Highly recommended product,0
+HP Note24,HP,phone,847,4.1,Fast and reliable device,1
+HP Pro10,HP,phone,1133,4.0,Amazing experience overall,1
+Lenovo Tab S4,Lenovo,tablet,206,4.0,Very good for the price,1
+Huawei Tab A6,Huawei,tablet,156,3.6,Amazing experience overall,0
+Dell GT30,Dell,phone,529,4.4,Not bad but has some issues,1
+Samsung Tab X10,Samsung,tablet,209,3.5,Not bad but has some issues,0
+MSI Book 9,MSI,laptop,596,3.6,Great performance and battery life,0
+MSI X11,MSI,phone,698,4.0,Highly recommended product,1
+Dell S20,Dell,phone,386,3.9,Amazing experience overall,0
+Apple Flex 10,Apple,laptop,788,4.4,Battery lasts long and smooth usage,1
+Apple Air 6,Apple,laptop,1041,3.7,Decent product for daily use,0
+Apple Tab A2,Apple,tablet,637,4.9,Highly recommended product,1
+Asus Tab A2,Asus,tablet,451,3.6,Great performance and battery life,0
+Asus Tab A10,Asus,tablet,776,3.6,Not bad but has some issues,0
+Realme Pro30,Realme,phone,472,3.7,Battery lasts long and smooth usage,0
+Samsung GT24,Samsung,phone,156,4.3,Amazing experience overall,1
+Xiaomi GT16,Xiaomi,phone,1099,4.1,Decent product for daily use,1
+OnePlus Note17,OnePlus,phone,555,4.9,Very good for the price,1
+Dell Note21,Dell,phone,183,3.6,Battery lasts long and smooth usage,0
+Realme Pro17,Realme,phone,193,4.9,Not bad but has some issues,1
+Asus Tab X8,Asus,tablet,162,4.3,Battery lasts long and smooth usage,1
+Dell Pro2,Dell,phone,450,4.2,Fast and reliable device,1
+OnePlus Flex 4,OnePlus,laptop,947,4.0,Highly recommended product,1
+Dell Tab X1,Dell,tablet,384,4.0,Fast and reliable device,1
+Google GT1,Google,phone,232,4.1,Great performance and battery life,1
+HP Tab S7,HP,tablet,508,3.5,Highly recommended product,0
+Microsoft Flex 13,Microsoft,laptop,1315,3.5,Works well but could be better,0
+Apple Tab X4,Apple,tablet,313,4.3,Fast and reliable device,1
+Motorola X10,Motorola,phone,890,4.0,Not bad but has some issues,1
+OnePlus S17,OnePlus,phone,825,4.2,Excellent quality and design,1
+OnePlus Tab A5,OnePlus,tablet,757,4.4,Excellent quality and design,1
+OnePlus Tab A8,OnePlus,tablet,456,3.6,Battery lasts long and smooth usage,0
+MSI Flex 7,MSI,laptop,644,4.9,Excellent quality and design,1
+Huawei Tab X10,Huawei,tablet,121,4.0,Great performance and battery life,1
+OnePlus Tab X2,OnePlus,tablet,410,4.6,Battery lasts long and smooth usage,1
+Samsung S20,Samsung,phone,1180,4.1,Decent product for daily use,1
+Lenovo X5,Lenovo,phone,472,3.7,Very good for the price,0
+Asus Pro 6,Asus,laptop,1116,4.1,Decent product for daily use,1
+Samsung Tab X1,Samsung,tablet,650,4.9,Great performance and battery life,1
+Acer X 6,Acer,laptop,947,3.9,Not bad but has some issues,0
+Realme S19,Realme,phone,186,4.6,Highly recommended product,1
+Samsung Tab A3,Samsung,tablet,224,3.7,Decent product for daily use,0
+Samsung Tab X4,Samsung,tablet,238,3.7,Works well but could be better,0
+MSI Note23,MSI,phone,771,4.3,Decent product for daily use,1
+HP Pro 5,HP,laptop,523,4.5,Amazing experience overall,1
+Lenovo Tab M4,Lenovo,tablet,410,4.9,Excellent quality and design,1
+Samsung S3,Samsung,phone,1136,4.1,Very good for the price,1
+Huawei Flex 10,Huawei,laptop,976,4.8,Highly recommended product,1
+HP GT3,HP,phone,1154,4.5,Great performance and battery life,1
+OnePlus X17,OnePlus,phone,182,3.6,Very good for the price,0
+HP S14,HP,phone,1041,4.2,Great performance and battery life,1
+Motorola Elite 4,Motorola,laptop,1350,3.7,Great performance and battery life,0
+Apple X17,Apple,phone,446,4.0,Excellent quality and design,1
+OnePlus Air 3,OnePlus,laptop,446,4.8,Excellent quality and design,1
+Samsung Tab S8,Samsung,tablet,352,4.2,Works well but could be better,1
+MSI Flex 11,MSI,laptop,1343,4.1,Excellent quality and design,1
+Samsung Elite 4,Samsung,laptop,1186,4.3,Not bad but has some issues,1
+OnePlus X20,OnePlus,phone,516,3.9,Excellent quality and design,0
+Huawei Pro9,Huawei,phone,548,3.7,Works well but could be better,0
+Huawei Book 10,Huawei,laptop,1433,3.6,Very good for the price,0
+OnePlus Book 5,OnePlus,laptop,1471,4.0,Not bad but has some issues,1
+Realme Air 13,Realme,laptop,1263,3.6,Great performance and battery life,0
+Acer Tab S8,Acer,tablet,324,4.2,Amazing experience overall,1
+Microsoft X27,Microsoft,phone,1100,4.2,Very good for the price,1
+Acer Pro14,Acer,phone,593,4.9,Excellent quality and design,1
+Acer S7,Acer,phone,258,4.4,Battery lasts long and smooth usage,1
+Asus X 8,Asus,laptop,440,4.9,Great performance and battery life,1
+MSI X10,MSI,phone,543,4.2,Amazing experience overall,1
+MSI Tab M9,MSI,tablet,290,4.2,Amazing experience overall,1
+OnePlus S10,OnePlus,phone,374,3.9,Battery lasts long and smooth usage,0
+Lenovo Tab M2,Lenovo,tablet,334,4.7,Not bad but has some issues,1
+Apple Tab S4,Apple,tablet,420,3.7,Fast and reliable device,0
+Xiaomi Tab A4,Xiaomi,tablet,559,5.0,Battery lasts long and smooth usage,1
+Asus GT10,Asus,phone,258,4.8,Fast and reliable device,1
+Huawei X23,Huawei,phone,285,3.7,Excellent quality and design,0
+MSI Tab M5,MSI,tablet,483,4.3,Great performance and battery life,1
+HP Tab S1,HP,tablet,132,3.9,Amazing experience overall,0
+MSI GT19,MSI,phone,927,4.6,Decent product for daily use,1
+Apple Tab A2,Apple,tablet,331,3.6,Amazing experience overall,0
+Xiaomi Tab M5,Xiaomi,tablet,697,4.4,Excellent quality and design,1
+Motorola X1,Motorola,phone,726,3.6,Excellent quality and design,0
+OnePlus Tab A2,OnePlus,tablet,511,4.4,Not bad but has some issues,1
+Motorola Note2,Motorola,phone,1100,4.5,Not bad but has some issues,1
+Acer Pro21,Acer,phone,523,3.9,Very good for the price,0
+Microsoft Tab S6,Microsoft,tablet,120,4.3,Highly recommended product,1
+Acer Tab A10,Acer,tablet,443,4.9,Decent product for daily use,1
+Microsoft Note5,Microsoft,phone,318,4.6,Very good for the price,1
+Samsung Tab A2,Samsung,tablet,218,4.3,Not bad but has some issues,1
+Acer Tab S7,Acer,tablet,113,5.0,Works well but could be better,1
+Dell Tab A4,Dell,tablet,701,4.7,Fast and reliable device,1
+Acer Tab A3,Acer,tablet,290,3.7,Amazing experience overall,0
+Microsoft Flex 15,Microsoft,laptop,1139,4.1,Highly recommended product,1
+MSI Tab S8,MSI,tablet,525,4.2,Not bad but has some issues,1
+HP Elite 14,HP,laptop,659,3.8,Very good for the price,0
+Asus X 7,Asus,laptop,1257,4.4,Battery lasts long and smooth usage,1
+Huawei Air 14,Huawei,laptop,492,4.8,Amazing experience overall,1
+Microsoft Tab X10,Microsoft,tablet,715,3.9,Fast and reliable device,0
+Apple Note29,Apple,phone,712,4.4,Decent product for daily use,1
+Realme X5,Realme,phone,633,4.5,Not bad but has some issues,1
+Dell Air 11,Dell,laptop,538,3.9,Amazing experience overall,0
+HP Book 8,HP,laptop,1409,4.3,Battery lasts long and smooth usage,1
+OnePlus Note10,OnePlus,phone,352,3.9,Not bad but has some issues,0
+Acer X7,Acer,phone,1035,4.6,Not bad but has some issues,1
+Samsung Tab X10,Samsung,tablet,629,3.6,Excellent quality and design,0
+Lenovo Tab M6,Lenovo,tablet,713,4.7,Not bad but has some issues,1
+Dell X 9,Dell,laptop,1007,4.4,Very good for the price,1
+MSI X7,MSI,phone,610,3.6,Great performance and battery life,0
+Huawei X 3,Huawei,laptop,690,3.5,Very good for the price,0
+Google X 14,Google,laptop,693,3.6,Fast and reliable device,0
+OnePlus Flex 4,OnePlus,laptop,1183,4.1,Very good for the price,1
+Realme GT30,Realme,phone,442,3.6,Very good for the price,0
+Motorola Note7,Motorola,phone,490,3.6,Fast and reliable device,0
+Apple X 8,Apple,laptop,1405,4.8,Very good for the price,1
+Samsung Tab X5,Samsung,tablet,135,4.0,Not bad but has some issues,1
+HP X 8,HP,laptop,1079,4.2,Fast and reliable device,1
+Motorola Pro20,Motorola,phone,316,4.5,Highly recommended product,1
+Google Note30,Google,phone,885,3.8,Not bad but has some issues,0
+MSI Note9,MSI,phone,865,3.8,Highly recommended product,0
+Realme Book 10,Realme,laptop,728,4.5,Great performance and battery life,1
+Samsung X27,Samsung,phone,933,4.0,Works well but could be better,1
+Motorola X 14,Motorola,laptop,1251,4.7,Highly recommended product,1
+Acer GT2,Acer,phone,741,3.6,Decent product for daily use,0
+Asus X 3,Asus,laptop,1357,3.8,Decent product for daily use,0
+Huawei Tab M4,Huawei,tablet,550,4.6,Very good for the price,1
+Dell Tab A9,Dell,tablet,769,4.5,Highly recommended product,1
+Samsung Air 5,Samsung,laptop,492,4.3,Fast and reliable device,1
+Microsoft Air 8,Microsoft,laptop,1289,3.9,Great performance and battery life,0
+Samsung Tab M3,Samsung,tablet,387,4.5,Excellent quality and design,1
+OnePlus Elite 9,OnePlus,laptop,1476,4.1,Amazing experience overall,1
+Microsoft Tab A2,Microsoft,tablet,427,3.8,Works well but could be better,0
+MSI Book 4,MSI,laptop,596,3.9,Amazing experience overall,0
+Apple Tab A4,Apple,tablet,467,4.9,Highly recommended product,1
+Samsung Pro16,Samsung,phone,908,4.6,Works well but could be better,1
+Samsung Elite 6,Samsung,laptop,475,4.6,Amazing experience overall,1
+Microsoft Flex 8,Microsoft,laptop,1228,4.4,Battery lasts long and smooth usage,1
+OnePlus Pro5,OnePlus,phone,940,4.5,Battery lasts long and smooth usage,1
+Acer Tab M8,Acer,tablet,448,4.9,Battery lasts long and smooth usage,1
+Realme Tab M4,Realme,tablet,306,4.8,Amazing experience overall,1
+Acer Note25,Acer,phone,317,4.1,Highly recommended product,1
+Huawei Tab A1,Huawei,tablet,493,4.9,Not bad but has some issues,1
+Acer Tab A4,Acer,tablet,287,3.6,Decent product for daily use,0
+Lenovo Tab S5,Lenovo,tablet,776,4.0,Not bad but has some issues,1
+Acer Book 11,Acer,laptop,1035,4.9,Battery lasts long and smooth usage,1
+Motorola Pro 6,Motorola,laptop,880,3.7,Battery lasts long and smooth usage,0
+Microsoft S24,Microsoft,phone,537,4.0,Very good for the price,1
+Google S2,Google,phone,989,4.0,Decent product for daily use,1
+Google Air 7,Google,laptop,875,4.3,Very good for the price,1
+HP Air 3,HP,laptop,421,4.4,Excellent quality and design,1
+Samsung GT14,Samsung,phone,606,4.0,Decent product for daily use,1
+Lenovo X1,Lenovo,phone,691,4.5,Highly recommended product,1
+MSI Flex 6,MSI,laptop,802,4.7,Works well but could be better,1
+Acer Pro8,Acer,phone,791,4.0,Not bad but has some issues,1
+Dell Pro 6,Dell,laptop,675,4.7,Great performance and battery life,1
+Dell Pro16,Dell,phone,659,4.6,Excellent quality and design,1
+Realme Pro29,Realme,phone,922,4.4,Works well but could be better,1
+Dell Tab S6,Dell,tablet,530,4.6,Very good for the price,1
+Asus X22,Asus,phone,293,3.8,Not bad but has some issues,0
+Dell Tab S4,Dell,tablet,797,3.8,Fast and reliable device,0
+Huawei Air 12,Huawei,laptop,1441,3.8,Amazing experience overall,0
+Apple S13,Apple,phone,174,3.8,Works well but could be better,0
+Xiaomi Note26,Xiaomi,phone,224,4.7,Fast and reliable device,1
+Lenovo Tab X6,Lenovo,tablet,609,4.7,Decent product for daily use,1
+Microsoft X 3,Microsoft,laptop,926,4.6,Very good for the price,1
+Acer X2,Acer,phone,1008,4.1,Decent product for daily use,1
+Huawei X 15,Huawei,laptop,1152,4.2,Very good for the price,1
+Lenovo X21,Lenovo,phone,316,4.3,Decent product for daily use,1
+MSI X8,MSI,phone,433,4.4,Excellent quality and design,1
+HP Book 13,HP,laptop,853,3.7,Works well but could be better,0
+Huawei Tab A5,Huawei,tablet,248,4.4,Excellent quality and design,1
+Acer X12,Acer,phone,836,4.3,Very good for the price,1
+MSI Tab A5,MSI,tablet,472,4.9,Very good for the price,1
+HP Tab A5,HP,tablet,284,4.3,Highly recommended product,1
+Motorola Pro24,Motorola,phone,806,4.2,Highly recommended product,1
+Asus Pro 7,Asus,laptop,1155,3.5,Decent product for daily use,0
+Dell X 12,Dell,laptop,1030,4.9,Great performance and battery life,1
+Motorola Book 6,Motorola,laptop,794,3.5,Fast and reliable device,0
+Google Tab S9,Google,tablet,114,4.1,Decent product for daily use,1
+Apple Tab X2,Apple,tablet,765,4.2,Very good for the price,1
+Huawei Tab M1,Huawei,tablet,124,4.2,Amazing experience overall,1
+OnePlus Tab A5,OnePlus,tablet,276,4.5,Decent product for daily use,1
+Asus Book 14,Asus,laptop,1369,3.5,Highly recommended product,0
+Xiaomi X 5,Xiaomi,laptop,1303,3.9,Very good for the price,0
+HP Tab X8,HP,tablet,486,3.6,Very good for the price,0
+Huawei Air 12,Huawei,laptop,785,4.0,Great performance and battery life,1
+MSI Tab S4,MSI,tablet,497,3.8,Decent product for daily use,0
+HP Pro30,HP,phone,652,4.8,Amazing experience overall,1
+MSI Air 8,MSI,laptop,727,3.9,Highly recommended product,0
+Microsoft X1,Microsoft,phone,833,4.8,Very good for the price,1
+Samsung Pro2,Samsung,phone,566,3.6,Not bad but has some issues,0
+Lenovo Pro23,Lenovo,phone,521,4.4,Works well but could be better,1
+Realme Tab A7,Realme,tablet,279,3.9,Great performance and battery life,0
+Microsoft Tab X5,Microsoft,tablet,135,4.4,Very good for the price,1
+Google Flex 10,Google,laptop,1037,4.8,Fast and reliable device,1
+MSI Pro20,MSI,phone,563,4.5,Not bad but has some issues,1
+OnePlus Note19,OnePlus,phone,208,3.9,Great performance and battery life,0
+HP Tab X2,HP,tablet,346,4.6,Excellent quality and design,1
+OnePlus Pro10,OnePlus,phone,510,3.9,Very good for the price,0
+Google Book 14,Google,laptop,1142,4.0,Excellent quality and design,1
+Microsoft Pro 6,Microsoft,laptop,1165,3.6,Highly recommended product,0
+HP Air 5,HP,laptop,1220,3.9,Excellent quality and design,0
+Realme Air 4,Realme,laptop,1488,4.7,Excellent quality and design,1
+HP Tab S6,HP,tablet,635,4.2,Not bad but has some issues,1
+Lenovo Elite 13,Lenovo,laptop,516,4.9,Amazing experience overall,1
+Realme S9,Realme,phone,1004,4.3,Very good for the price,1
+Apple GT29,Apple,phone,329,4.9,Highly recommended product,1
+HP Pro 10,HP,laptop,884,4.2,Not bad but has some issues,1
+Microsoft Tab S10,Microsoft,tablet,333,4.9,Not bad but has some issues,1
+Microsoft Tab S9,Microsoft,tablet,542,3.7,Very good for the price,0
+Huawei S26,Huawei,phone,673,3.8,Battery lasts long and smooth usage,0
+OnePlus Tab A10,OnePlus,tablet,796,4.0,Very good for the price,1
+Asus X18,Asus,phone,460,4.5,Not bad but has some issues,1
+Microsoft Elite 8,Microsoft,laptop,963,4.0,Fast and reliable device,1
+Lenovo Tab S2,Lenovo,tablet,710,4.4,Amazing experience overall,1
+Google GT24,Google,phone,671,3.8,Not bad but has some issues,0
+MSI Tab A10,MSI,tablet,623,3.7,Very good for the price,0
+HP Tab M10,HP,tablet,776,4.1,Very good for the price,1
+Google Tab X4,Google,tablet,526,5.0,Fast and reliable device,1
+Dell Tab M1,Dell,tablet,771,3.9,Fast and reliable device,0
+MSI Tab S9,MSI,tablet,140,3.9,Great performance and battery life,0
+Acer Air 13,Acer,laptop,1196,4.1,Not bad but has some issues,1
+Microsoft Tab X2,Microsoft,tablet,292,4.8,Excellent quality and design,1
+HP X15,HP,phone,588,4.4,Not bad but has some issues,1
+Apple Tab M9,Apple,tablet,583,3.6,Highly recommended product,0
+Dell Tab M2,Dell,tablet,736,5.0,Excellent quality and design,1
+Samsung Air 7,Samsung,laptop,916,4.4,Fast and reliable device,1
+Microsoft Pro25,Microsoft,phone,565,4.5,Decent product for daily use,1
+Realme Pro26,Realme,phone,1079,3.6,Battery lasts long and smooth usage,0
+Google Air 10,Google,laptop,421,4.8,Not bad but has some issues,1
+Microsoft GT10,Microsoft,phone,222,4.4,Works well but could be better,1
+Huawei Pro 8,Huawei,laptop,822,4.5,Highly recommended product,1
+Microsoft Tab S7,Microsoft,tablet,328,4.9,Very good for the price,1
+Xiaomi Tab X10,Xiaomi,tablet,343,4.8,Very good for the price,1
+Acer Book 6,Acer,laptop,1429,3.7,Decent product for daily use,0
+Asus GT29,Asus,phone,678,4.0,Battery lasts long and smooth usage,1
+MSI Tab M5,MSI,tablet,592,3.6,Fast and reliable device,0
+Huawei X13,Huawei,phone,220,4.1,Battery lasts long and smooth usage,1
+Microsoft Elite 10,Microsoft,laptop,775,3.9,Fast and reliable device,0
+Realme Tab M9,Realme,tablet,490,3.7,Amazing experience overall,0
+Google Note20,Google,phone,595,3.8,Decent product for daily use,0
+Asus Tab M8,Asus,tablet,770,4.0,Very good for the price,1
+Acer Pro 12,Acer,laptop,498,4.4,Works well but could be better,1
+Asus Flex 8,Asus,laptop,1106,4.9,Not bad but has some issues,1
+Realme Tab A2,Realme,tablet,402,4.0,Not bad but has some issues,1
+Xiaomi Pro15,Xiaomi,phone,567,4.7,Works well but could be better,1
+Dell Tab S7,Dell,tablet,487,3.9,Very good for the price,0
+Apple Note15,Apple,phone,286,4.5,Very good for the price,1
+Dell Air 6,Dell,laptop,930,4.9,Battery lasts long and smooth usage,1
+Xiaomi Pro 4,Xiaomi,laptop,408,3.7,Not bad but has some issues,0
+MSI Note12,MSI,phone,240,4.7,Works well but could be better,1
+HP X 15,HP,laptop,1377,3.9,Very good for the price,0
+Microsoft Pro19,Microsoft,phone,211,3.6,Very good for the price,0
+Motorola X30,Motorola,phone,399,3.7,Excellent quality and design,0
+HP Tab S8,HP,tablet,279,4.2,Fast and reliable device,1
+Xiaomi Tab S1,Xiaomi,tablet,222,4.8,Not bad but has some issues,1
+Acer Tab A5,Acer,tablet,303,4.0,Excellent quality and design,1
+Lenovo X 10,Lenovo,laptop,738,3.6,Very good for the price,0
+Samsung Tab X7,Samsung,tablet,191,4.8,Great performance and battery life,1
+Realme Pro 8,Realme,laptop,789,4.7,Not bad but has some issues,1
+MSI S6,MSI,phone,808,4.9,Battery lasts long and smooth usage,1
+HP Note9,HP,phone,530,5.0,Works well but could be better,1
+OnePlus Elite 5,OnePlus,laptop,423,4.9,Great performance and battery life,1
+Samsung Elite 12,Samsung,laptop,868,4.6,Works well but could be better,1
+HP X23,HP,phone,441,3.8,Fast and reliable device,0
+Microsoft Air 4,Microsoft,laptop,1008,4.2,Highly recommended product,1
+Motorola Tab M8,Motorola,tablet,687,3.5,Great performance and battery life,0
+Xiaomi X22,Xiaomi,phone,493,4.2,Very good for the price,1
+Realme X 6,Realme,laptop,1312,3.9,Fast and reliable device,0
+Asus Tab S9,Asus,tablet,273,4.7,Amazing experience overall,1
+Asus Air 4,Asus,laptop,467,4.7,Excellent quality and design,1
+Google Elite 3,Google,laptop,872,4.1,Excellent quality and design,1
+OnePlus Air 4,OnePlus,laptop,1233,4.7,Excellent quality and design,1
+Acer Tab A10,Acer,tablet,760,4.3,Works well but could be better,1
+Samsung Tab M1,Samsung,tablet,585,4.6,Works well but could be better,1
+Motorola Note4,Motorola,phone,533,3.6,Amazing experience overall,0
+Apple Air 11,Apple,laptop,980,4.4,Decent product for daily use,1
+MSI Elite 10,MSI,laptop,808,4.1,Decent product for daily use,1
+Acer Pro5,Acer,phone,252,4.9,Highly recommended product,1
+HP S21,HP,phone,668,4.5,Battery lasts long and smooth usage,1
+HP Pro 13,HP,laptop,1494,4.5,Very good for the price,1
+Motorola Pro1,Motorola,phone,342,3.9,Amazing experience overall,0
+OnePlus S4,OnePlus,phone,1192,4.4,Great performance and battery life,1
+Asus GT30,Asus,phone,687,4.2,Excellent quality and design,1
+Huawei Pro16,Huawei,phone,882,4.0,Fast and reliable device,1
+Huawei Tab M10,Huawei,tablet,722,4.7,Very good for the price,1
+Apple Pro 12,Apple,laptop,511,4.9,Decent product for daily use,1
+Samsung Tab A9,Samsung,tablet,190,4.7,Amazing experience overall,1
+HP Pro16,HP,phone,990,4.9,Fast and reliable device,1
+Apple S29,Apple,phone,1163,4.9,Decent product for daily use,1
+Lenovo Air 10,Lenovo,laptop,494,4.7,Great performance and battery life,1
+MSI S16,MSI,phone,1019,3.9,Fast and reliable device,0
+MSI Tab X7,MSI,tablet,381,3.8,Fast and reliable device,0
+Dell Air 3,Dell,laptop,952,5.0,Fast and reliable device,1
+Huawei X 5,Huawei,laptop,1355,4.8,Decent product for daily use,1
+Huawei Pro25,Huawei,phone,375,4.3,Excellent quality and design,1
+Samsung GT16,Samsung,phone,231,3.9,Decent product for daily use,0
+Dell Note13,Dell,phone,329,5.0,Not bad but has some issues,1
+Asus S19,Asus,phone,262,4.0,Excellent quality and design,1
+MSI Tab X5,MSI,tablet,599,4.9,Very good for the price,1
+Motorola Tab M10,Motorola,tablet,755,4.6,Battery lasts long and smooth usage,1
+Samsung S26,Samsung,phone,805,3.9,Not bad but has some issues,0
+Dell Elite 10,Dell,laptop,1116,4.2,Excellent quality and design,1
+Google Pro 13,Google,laptop,1260,4.7,Very good for the price,1
+Motorola Elite 11,Motorola,laptop,1168,4.2,Very good for the price,1
+HP S15,HP,phone,983,4.0,Works well but could be better,1
+OnePlus Tab X1,OnePlus,tablet,357,4.9,Not bad but has some issues,1
+MSI X26,MSI,phone,672,4.2,Amazing experience overall,1
+Realme Book 15,Realme,laptop,796,4.7,Great performance and battery life,1
+Huawei Book 7,Huawei,laptop,768,3.6,Great performance and battery life,0
+Samsung Tab S1,Samsung,tablet,700,3.9,Excellent quality and design,0
+HP Pro17,HP,phone,503,4.2,Excellent quality and design,1
+Google Tab X7,Google,tablet,117,4.2,Very good for the price,1
+Acer X25,Acer,phone,1185,3.8,Works well but could be better,0
+Google GT25,Google,phone,474,4.1,Great performance and battery life,1
+Xiaomi Elite 6,Xiaomi,laptop,1193,4.0,Amazing experience overall,1
+Apple X7,Apple,phone,556,3.9,Great performance and battery life,0
+Google Elite 8,Google,laptop,889,4.5,Highly recommended product,1
+Asus S6,Asus,phone,1027,4.0,Decent product for daily use,1
+Google GT29,Google,phone,455,4.7,Works well but could be better,1
+Asus Tab A4,Asus,tablet,604,4.6,Amazing experience overall,1
+Motorola Pro13,Motorola,phone,853,4.1,Very good for the price,1
+Samsung Pro 5,Samsung,laptop,1225,4.6,Very good for the price,1
+Asus Flex 4,Asus,laptop,1201,4.1,Decent product for daily use,1
+MSI X 10,MSI,laptop,1481,4.5,Excellent quality and design,1
+Samsung Note19,Samsung,phone,1083,4.6,Great performance and battery life,1
+OnePlus GT17,OnePlus,phone,1000,4.3,Highly recommended product,1
+MSI Air 13,MSI,laptop,567,4.5,Excellent quality and design,1
+OnePlus Tab X8,OnePlus,tablet,568,3.6,Very good for the price,0
+Dell Note24,Dell,phone,821,4.8,Great performance and battery life,1
+Huawei Book 7,Huawei,laptop,1143,5.0,Fast and reliable device,1
+Samsung Air 11,Samsung,laptop,885,3.7,Very good for the price,0
+Google Tab X1,Google,tablet,558,3.6,Works well but could be better,0
+Apple Note9,Apple,phone,1173,3.6,Decent product for daily use,0
+Xiaomi Tab S10,Xiaomi,tablet,642,3.8,Works well but could be better,0
+MSI Pro8,MSI,phone,374,3.7,Highly recommended product,0
+Asus Tab X8,Asus,tablet,723,4.4,Battery lasts long and smooth usage,1
+MSI Tab M2,MSI,tablet,304,3.9,Not bad but has some issues,0
+Dell Tab M10,Dell,tablet,537,3.5,Great performance and battery life,0
+Samsung Pro2,Samsung,phone,358,5.0,Decent product for daily use,1
+Xiaomi Tab M1,Xiaomi,tablet,297,4.2,Very good for the price,1
+Microsoft GT21,Microsoft,phone,816,4.7,Not bad but has some issues,1
+Samsung Book 8,Samsung,laptop,798,4.7,Not bad but has some issues,1
+Dell Tab X10,Dell,tablet,785,4.7,Decent product for daily use,1
+Acer Flex 8,Acer,laptop,966,4.3,Amazing experience overall,1
+Realme S26,Realme,phone,324,4.5,Works well but could be better,1
+MSI GT7,MSI,phone,219,3.8,Decent product for daily use,0
+Motorola Tab A2,Motorola,tablet,799,4.6,Fast and reliable device,1
+Realme Tab A5,Realme,tablet,252,3.9,Works well but could be better,0
+Asus Flex 12,Asus,laptop,516,3.8,Works well but could be better,0
+Lenovo Elite 13,Lenovo,laptop,1254,4.8,Battery lasts long and smooth usage,1
+Acer Elite 13,Acer,laptop,1092,4.6,Battery lasts long and smooth usage,1
+Acer Tab S7,Acer,tablet,463,4.0,Amazing experience overall,1
+Asus Pro20,Asus,phone,870,3.5,Not bad but has some issues,0
+Motorola Tab A8,Motorola,tablet,311,3.8,Amazing experience overall,0
+Samsung Pro19,Samsung,phone,955,3.9,Battery lasts long and smooth usage,0
+Microsoft X 10,Microsoft,laptop,414,4.0,Amazing experience overall,1
+Asus S14,Asus,phone,646,4.4,Battery lasts long and smooth usage,1
+Microsoft Book 11,Microsoft,laptop,1327,4.9,Battery lasts long and smooth usage,1
+Huawei X 7,Huawei,laptop,738,4.7,Great performance and battery life,1
+Dell Tab S7,Dell,tablet,247,4.8,Not bad but has some issues,1
+Dell GT26,Dell,phone,1022,3.9,Decent product for daily use,0
+Motorola Tab S6,Motorola,tablet,719,3.8,Excellent quality and design,0
+Realme Pro14,Realme,phone,1160,4.5,Not bad but has some issues,1
+Apple Tab S6,Apple,tablet,448,4.4,Amazing experience overall,1
+Google Book 5,Google,laptop,1318,4.8,Excellent quality and design,1
+Acer Elite 9,Acer,laptop,986,3.8,Battery lasts long and smooth usage,0
+Lenovo X 4,Lenovo,laptop,424,3.5,Amazing experience overall,0
+Asus Tab X5,Asus,tablet,784,4.1,Battery lasts long and smooth usage,1
+Xiaomi Book 11,Xiaomi,laptop,720,4.4,Very good for the price,1
+MSI Pro16,MSI,phone,889,4.0,Great performance and battery life,1
+Samsung S2,Samsung,phone,910,4.5,Excellent quality and design,1
+MSI X26,MSI,phone,1042,4.6,Works well but could be better,1
+Apple Tab S7,Apple,tablet,196,4.2,Very good for the price,1
+Dell S5,Dell,phone,401,4.7,Highly recommended product,1
+Lenovo Note9,Lenovo,phone,611,4.1,Highly recommended product,1
+Microsoft Flex 4,Microsoft,laptop,1496,3.9,Fast and reliable device,0
+Huawei GT18,Huawei,phone,687,4.7,Very good for the price,1
+Lenovo Tab S5,Lenovo,tablet,737,3.7,Amazing experience overall,0
+MSI Tab M5,MSI,tablet,405,4.1,Excellent quality and design,1
+MSI X 3,MSI,laptop,422,4.5,Amazing experience overall,1
+Acer Tab S6,Acer,tablet,169,3.7,Works well but could be better,0
+Asus Tab X3,Asus,tablet,328,4.5,Works well but could be better,1
+MSI Tab X7,MSI,tablet,113,4.1,Not bad but has some issues,1
+HP Elite 6,HP,laptop,1377,4.0,Works well but could be better,1
+Samsung Note19,Samsung,phone,162,4.2,Amazing experience overall,1
+Samsung X26,Samsung,phone,895,4.5,Very good for the price,1
+Acer Pro11,Acer,phone,950,3.7,Very good for the price,0
+Xiaomi GT25,Xiaomi,phone,1028,4.1,Decent product for daily use,1
+Realme Flex 4,Realme,laptop,1136,4.4,Works well but could be better,1
+Asus Pro22,Asus,phone,216,3.6,Excellent quality and design,0
+Asus Pro 10,Asus,laptop,1211,4.4,Great performance and battery life,1
+Samsung Tab X9,Samsung,tablet,438,4.2,Battery lasts long and smooth usage,1
+Samsung GT2,Samsung,phone,1119,4.3,Fast and reliable device,1
+Asus Pro 15,Asus,laptop,1216,3.8,Great performance and battery life,0
+Acer Pro 13,Acer,laptop,654,3.6,Battery lasts long and smooth usage,0
+Realme Pro 15,Realme,laptop,1343,4.4,Very good for the price,1
+Samsung Elite 10,Samsung,laptop,449,4.7,Not bad but has some issues,1
+Huawei GT4,Huawei,phone,808,4.8,Amazing experience overall,1
+Realme Pro 15,Realme,laptop,1109,3.8,Not bad but has some issues,0
+Lenovo Elite 10,Lenovo,laptop,631,3.9,Highly recommended product,0
+Dell Tab A9,Dell,tablet,609,4.4,Highly recommended product,1
+Lenovo GT4,Lenovo,phone,981,5.0,Very good for the price,1
+Xiaomi Book 5,Xiaomi,laptop,591,5.0,Amazing experience overall,1
+Motorola Air 9,Motorola,laptop,1313,4.7,Very good for the price,1
+Realme X18,Realme,phone,168,5.0,Not bad but has some issues,1
+Apple Elite 6,Apple,laptop,842,5.0,Excellent quality and design,1
+Lenovo GT3,Lenovo,phone,977,4.3,Highly recommended product,1
+OnePlus Tab M3,OnePlus,tablet,686,4.5,Amazing experience overall,1
+HP Tab S2,HP,tablet,202,4.3,Very good for the price,1
+Dell Flex 3,Dell,laptop,524,4.1,Not bad but has some issues,1
+Motorola X 15,Motorola,laptop,1308,3.5,Excellent quality and design,0
+Dell Tab M6,Dell,tablet,701,4.6,Battery lasts long and smooth usage,1
+Huawei X 13,Huawei,laptop,842,4.0,Fast and reliable device,1
+MSI Tab M6,MSI,tablet,419,4.8,Battery lasts long and smooth usage,1
+Motorola Elite 5,Motorola,laptop,644,3.6,Amazing experience overall,0
+Apple X26,Apple,phone,936,4.2,Very good for the price,1
+Xiaomi Book 14,Xiaomi,laptop,1461,4.8,Very good for the price,1
+Lenovo Tab S10,Lenovo,tablet,378,4.3,Not bad but has some issues,1
+Microsoft S24,Microsoft,phone,605,3.6,Works well but could be better,0
+Lenovo Pro7,Lenovo,phone,396,4.7,Fast and reliable device,1
+Huawei Pro10,Huawei,phone,673,3.9,Very good for the price,0
+Huawei Tab M5,Huawei,tablet,657,4.9,Excellent quality and design,1
+Lenovo Pro26,Lenovo,phone,366,4.0,Battery lasts long and smooth usage,1
+Lenovo Tab S2,Lenovo,tablet,100,3.5,Works well but could be better,0
+Lenovo X10,Lenovo,phone,998,3.8,Great performance and battery life,0
+Xiaomi Pro29,Xiaomi,phone,315,4.8,Not bad but has some issues,1
+Apple X 3,Apple,laptop,1222,4.6,Not bad but has some issues,1
+Samsung Tab S4,Samsung,tablet,120,4.1,Amazing experience overall,1
+Asus Book 3,Asus,laptop,1323,3.8,Not bad but has some issues,0
+Asus Book 15,Asus,laptop,1448,4.3,Decent product for daily use,1
+Xiaomi GT9,Xiaomi,phone,410,3.8,Not bad but has some issues,0
+OnePlus Elite 10,OnePlus,laptop,437,3.6,Not bad but has some issues,0
+Dell Note3,Dell,phone,878,4.1,Great performance and battery life,1
+Lenovo Pro23,Lenovo,phone,591,3.6,Great performance and battery life,0
+Dell Elite 11,Dell,laptop,1155,4.6,Excellent quality and design,1
+HP X 3,HP,laptop,903,4.6,Highly recommended product,1
+Acer Book 9,Acer,laptop,766,4.4,Highly recommended product,1
+Asus Tab X7,Asus,tablet,679,4.9,Works well but could be better,1
+Apple Note11,Apple,phone,977,3.7,Decent product for daily use,0
+Acer Tab A7,Acer,tablet,658,4.9,Amazing experience overall,1
+HP S26,HP,phone,445,3.6,Highly recommended product,0
+Apple Tab M1,Apple,tablet,632,3.9,Very good for the price,0
+Xiaomi Pro12,Xiaomi,phone,657,4.6,Very good for the price,1
+Microsoft Note1,Microsoft,phone,869,3.8,Very good for the price,0
+Xiaomi GT13,Xiaomi,phone,280,4.8,Works well but could be better,1
+HP Tab M4,HP,tablet,631,4.1,Great performance and battery life,1
+Acer X 12,Acer,laptop,494,4.1,Decent product for daily use,1
+Asus Pro30,Asus,phone,856,4.0,Works well but could be better,1
+Apple X 3,Apple,laptop,441,4.4,Not bad but has some issues,1
+Microsoft Pro16,Microsoft,phone,256,4.0,Battery lasts long and smooth usage,1
+Asus X16,Asus,phone,1066,5.0,Decent product for daily use,1
+Xiaomi Air 3,Xiaomi,laptop,1280,5.0,Amazing experience overall,1
+Lenovo GT18,Lenovo,phone,1193,3.9,Very good for the price,0
+Realme Pro 14,Realme,laptop,471,4.5,Battery lasts long and smooth usage,1
+Huawei Tab M6,Huawei,tablet,522,3.9,Excellent quality and design,0
+Asus Tab M10,Asus,tablet,726,3.8,Decent product for daily use,0
+Microsoft X 5,Microsoft,laptop,1427,4.9,Works well but could be better,1
+Xiaomi Book 5,Xiaomi,laptop,868,5.0,Amazing experience overall,1
+Apple Tab S2,Apple,tablet,442,4.6,Great performance and battery life,1
+Microsoft X13,Microsoft,phone,1147,4.9,Excellent quality and design,1
+Acer Air 12,Acer,laptop,539,3.9,Fast and reliable device,0
+OnePlus X 6,OnePlus,laptop,1136,4.0,Fast and reliable device,1
+Acer Note28,Acer,phone,880,4.0,Fast and reliable device,1
+HP Elite 6,HP,laptop,411,4.6,Excellent quality and design,1
+OnePlus Elite 3,OnePlus,laptop,781,4.8,Very good for the price,1
+Samsung Tab X10,Samsung,tablet,522,4.5,Amazing experience overall,1
+MSI X 12,MSI,laptop,504,4.7,Works well but could be better,1
+Acer Book 5,Acer,laptop,722,4.0,Fast and reliable device,1
+Apple Tab A4,Apple,tablet,422,3.7,Fast and reliable device,0
+Samsung Tab S8,Samsung,tablet,403,3.6,Decent product for daily use,0
+Dell Tab X2,Dell,tablet,224,4.7,Highly recommended product,1
+Asus Flex 11,Asus,laptop,931,4.8,Very good for the price,1
+Dell S14,Dell,phone,764,4.5,Amazing experience overall,1
+Huawei Tab M2,Huawei,tablet,556,4.5,Excellent quality and design,1
+Samsung Pro24,Samsung,phone,927,4.7,Amazing experience overall,1
+Acer Book 3,Acer,laptop,1302,4.1,Works well but could be better,1
+Motorola Note26,Motorola,phone,281,4.6,Not bad but has some issues,1
+Samsung Note16,Samsung,phone,704,4.0,Very good for the price,1
+MSI Tab X7,MSI,tablet,493,4.7,Fast and reliable device,1
+Microsoft GT10,Microsoft,phone,814,4.1,Very good for the price,1
+Acer GT16,Acer,phone,1119,3.6,Fast and reliable device,0
+Dell Air 8,Dell,laptop,471,4.1,Very good for the price,1
+Huawei Note3,Huawei,phone,656,4.6,Great performance and battery life,1
+Microsoft Tab X9,Microsoft,tablet,205,3.7,Highly recommended product,0
+Asus Note9,Asus,phone,256,4.6,Very good for the price,1
+Lenovo Tab S1,Lenovo,tablet,629,3.5,Very good for the price,0
+MSI Air 13,MSI,laptop,1448,5.0,Not bad but has some issues,1
+Apple Tab M10,Apple,tablet,105,3.6,Decent product for daily use,0
+HP X26,HP,phone,683,3.6,Highly recommended product,0
+HP Tab S1,HP,tablet,330,3.6,Great performance and battery life,0
+Microsoft Flex 14,Microsoft,laptop,649,4.2,Works well but could be better,1
+MSI Tab S9,MSI,tablet,406,4.0,Battery lasts long and smooth usage,1
+Dell X4,Dell,phone,371,4.2,Highly recommended product,1
+Xiaomi Tab M6,Xiaomi,tablet,609,4.2,Highly recommended product,1
+OnePlus Pro27,OnePlus,phone,305,4.8,Great performance and battery life,1
+OnePlus Tab X2,OnePlus,tablet,259,3.9,Excellent quality and design,0
+OnePlus Tab X9,OnePlus,tablet,342,4.7,Highly recommended product,1
+Huawei Pro 8,Huawei,laptop,948,3.6,Decent product for daily use,0
+Acer Tab A1,Acer,tablet,721,3.8,Battery lasts long and smooth usage,0
+Dell Tab S7,Dell,tablet,152,4.7,Decent product for daily use,1
+HP S5,HP,phone,177,4.1,Decent product for daily use,1
+Samsung Tab A3,Samsung,tablet,627,4.4,Excellent quality and design,1
+Realme Note23,Realme,phone,822,4.8,Amazing experience overall,1
+Asus X18,Asus,phone,303,4.5,Great performance and battery life,1
+OnePlus Tab S1,OnePlus,tablet,710,3.9,Great performance and battery life,0
+Google Tab S9,Google,tablet,728,4.8,Battery lasts long and smooth usage,1
+Apple Tab X8,Apple,tablet,503,4.7,Works well but could be better,1
+Acer Pro16,Acer,phone,584,4.2,Fast and reliable device,1
+Lenovo Tab A10,Lenovo,tablet,103,3.8,Battery lasts long and smooth usage,0
+OnePlus X4,OnePlus,phone,1140,4.3,Fast and reliable device,1
+Samsung Flex 4,Samsung,laptop,594,4.2,Very good for the price,1
+Asus Note20,Asus,phone,420,4.9,Very good for the price,1
+Dell Air 8,Dell,laptop,1337,3.9,Battery lasts long and smooth usage,0
+Samsung Tab M2,Samsung,tablet,438,4.0,Decent product for daily use,1
+Microsoft Tab A6,Microsoft,tablet,522,3.6,Great performance and battery life,0
+MSI Tab M4,MSI,tablet,506,3.9,Highly recommended product,0
+Samsung Tab A8,Samsung,tablet,697,4.7,Decent product for daily use,1
+Acer Note16,Acer,phone,634,3.8,Amazing experience overall,0
+Microsoft Note11,Microsoft,phone,1000,4.4,Very good for the price,1
+Motorola X16,Motorola,phone,163,4.9,Amazing experience overall,1
+Xiaomi Tab X4,Xiaomi,tablet,352,4.4,Amazing experience overall,1
+Google Tab S5,Google,tablet,671,4.7,Not bad but has some issues,1
+Motorola Flex 3,Motorola,laptop,1024,3.6,Highly recommended product,0
+Google Tab S3,Google,tablet,734,4.0,Fast and reliable device,1
+OnePlus GT30,OnePlus,phone,403,4.4,Battery lasts long and smooth usage,1
+Lenovo Book 9,Lenovo,laptop,1217,5.0,Excellent quality and design,1
+Acer Flex 12,Acer,laptop,493,4.2,Decent product for daily use,1
+Samsung Tab A2,Samsung,tablet,696,3.6,Very good for the price,0
+Google Elite 3,Google,laptop,1238,4.6,Works well but could be better,1
+Realme Tab S3,Realme,tablet,690,4.8,Highly recommended product,1
+MSI Air 4,MSI,laptop,791,3.5,Not bad but has some issues,0
+Lenovo Tab A7,Lenovo,tablet,636,4.0,Works well but could be better,1
+Samsung Pro 14,Samsung,laptop,1080,5.0,Decent product for daily use,1
+MSI Pro 13,MSI,laptop,846,4.8,Works well but could be better,1
+Motorola Book 14,Motorola,laptop,1155,4.0,Battery lasts long and smooth usage,1
+HP Book 5,HP,laptop,431,4.6,Amazing experience overall,1
+Asus Tab S6,Asus,tablet,287,4.2,Excellent quality and design,1
+MSI X12,MSI,phone,216,4.8,Excellent quality and design,1
+Motorola Tab A4,Motorola,tablet,210,4.6,Great performance and battery life,1
+Realme Tab X10,Realme,tablet,577,4.3,Fast and reliable device,1
+Google Pro5,Google,phone,781,4.1,Not bad but has some issues,1
+Google Flex 9,Google,laptop,650,4.9,Not bad but has some issues,1
+Samsung Tab M2,Samsung,tablet,380,4.5,Not bad but has some issues,1
+OnePlus Pro26,OnePlus,phone,583,4.1,Decent product for daily use,1
+Motorola Pro18,Motorola,phone,222,3.9,Great performance and battery life,0
+Asus Tab S9,Asus,tablet,348,4.6,Battery lasts long and smooth usage,1
+Google Air 8,Google,laptop,598,3.5,Great performance and battery life,0
+Realme Tab X9,Realme,tablet,140,3.7,Excellent quality and design,0
+Dell Tab X3,Dell,tablet,710,3.7,Very good for the price,0
+Acer Tab S6,Acer,tablet,638,4.6,Not bad but has some issues,1
+HP Tab M4,HP,tablet,771,3.5,Highly recommended product,0
+Google Air 12,Google,laptop,677,3.8,Excellent quality and design,0
+Microsoft Tab A9,Microsoft,tablet,357,4.9,Battery lasts long and smooth usage,1
+Acer S6,Acer,phone,933,4.6,Amazing experience overall,1
+MSI GT20,MSI,phone,418,4.6,Decent product for daily use,1
+Apple Tab A6,Apple,tablet,505,3.8,Works well but could be better,0
+Dell Air 9,Dell,laptop,521,3.7,Highly recommended product,0
+Xiaomi GT26,Xiaomi,phone,467,3.7,Works well but could be better,0
+Asus S3,Asus,phone,679,4.5,Excellent quality and design,1
+Google X 10,Google,laptop,1312,4.3,Very good for the price,1
+Acer Tab X2,Acer,tablet,527,4.9,Works well but could be better,1
+Huawei Note7,Huawei,phone,857,3.6,Great performance and battery life,0
+OnePlus X 13,OnePlus,laptop,1090,4.7,Battery lasts long and smooth usage,1
+Lenovo Elite 4,Lenovo,laptop,1374,3.9,Not bad but has some issues,0
+OnePlus Elite 14,OnePlus,laptop,584,4.6,Decent product for daily use,1
+Dell Note26,Dell,phone,535,3.6,Excellent quality and design,0
+HP Tab S5,HP,tablet,639,4.4,Decent product for daily use,1
+Motorola Tab X6,Motorola,tablet,296,4.5,Works well but could be better,1
+Dell Note24,Dell,phone,662,4.3,Excellent quality and design,1
+Dell S17,Dell,phone,1091,4.4,Not bad but has some issues,1
+MSI Tab M10,MSI,tablet,671,4.1,Excellent quality and design,1
+Realme Pro17,Realme,phone,416,4.2,Works well but could be better,1
+HP Tab X9,HP,tablet,520,4.3,Battery lasts long and smooth usage,1
+Huawei Flex 7,Huawei,laptop,1410,4.6,Highly recommended product,1
+Realme Elite 12,Realme,laptop,964,3.8,Works well but could be better,0
+Asus Elite 11,Asus,laptop,500,3.8,Very good for the price,0
+Huawei Elite 11,Huawei,laptop,736,4.6,Great performance and battery life,1
+OnePlus Tab A4,OnePlus,tablet,327,4.5,Great performance and battery life,1
+Lenovo Note27,Lenovo,phone,1055,5.0,Amazing experience overall,1
+Huawei GT25,Huawei,phone,293,3.9,Amazing experience overall,0
+Realme Elite 15,Realme,laptop,715,3.7,Not bad but has some issues,0
+Dell Note12,Dell,phone,169,3.5,Excellent quality and design,0
+Huawei GT8,Huawei,phone,214,4.6,Excellent quality and design,1
+Xiaomi Tab X2,Xiaomi,tablet,203,4.5,Excellent quality and design,1
+Xiaomi Pro17,Xiaomi,phone,249,4.7,Excellent quality and design,1
+Microsoft S21,Microsoft,phone,1064,4.2,Decent product for daily use,1
+MSI Tab X5,MSI,tablet,796,4.4,Excellent quality and design,1
+Dell Elite 10,Dell,laptop,583,3.7,Battery lasts long and smooth usage,0
+MSI Tab A4,MSI,tablet,747,4.4,Amazing experience overall,1
+Huawei S6,Huawei,phone,384,3.8,Great performance and battery life,0
+HP Pro14,HP,phone,268,4.9,Fast and reliable device,1
+OnePlus Book 10,OnePlus,laptop,757,3.8,Excellent quality and design,0
+Apple Tab X7,Apple,tablet,530,3.7,Works well but could be better,0
+Acer Pro14,Acer,phone,1191,3.9,Works well but could be better,0
+Asus Book 8,Asus,laptop,450,5.0,Great performance and battery life,1
+Acer Note11,Acer,phone,806,4.6,Great performance and battery life,1
+HP Tab X7,HP,tablet,417,4.9,Amazing experience overall,1
+Apple Tab X5,Apple,tablet,667,4.2,Works well but could be better,1
+HP Tab M7,HP,tablet,692,4.0,Great performance and battery life,1
+Realme Note3,Realme,phone,704,4.5,Not bad but has some issues,1
+Samsung S30,Samsung,phone,303,3.5,Battery lasts long and smooth usage,0
+Realme Tab A7,Realme,tablet,200,4.6,Very good for the price,1
+Dell Elite 9,Dell,laptop,665,4.5,Great performance and battery life,1
+Lenovo Tab X8,Lenovo,tablet,789,3.9,Highly recommended product,0
+Huawei S20,Huawei,phone,362,4.9,Battery lasts long and smooth usage,1
+Dell S13,Dell,phone,369,3.7,Excellent quality and design,0
+Realme S7,Realme,phone,365,3.5,Battery lasts long and smooth usage,0
+Dell Tab M7,Dell,tablet,287,4.9,Fast and reliable device,1
+Google Pro1,Google,phone,268,3.5,Very good for the price,0
+OnePlus Tab S9,OnePlus,tablet,554,4.6,Not bad but has some issues,1
+Motorola X17,Motorola,phone,607,3.8,Battery lasts long and smooth usage,0
+Asus Tab M2,Asus,tablet,425,4.9,Decent product for daily use,1
+Acer Tab S2,Acer,tablet,680,3.7,Excellent quality and design,0
+Samsung S16,Samsung,phone,611,3.8,Amazing experience overall,0
+Apple Tab M10,Apple,tablet,476,4.9,Works well but could be better,1
+Lenovo Tab M7,Lenovo,tablet,431,5.0,Works well but could be better,1
+Huawei X27,Huawei,phone,562,4.6,Not bad but has some issues,1
+Acer GT7,Acer,phone,160,3.6,Very good for the price,0
+Motorola Note2,Motorola,phone,923,4.3,Amazing experience overall,1
+Asus Pro 5,Asus,laptop,1012,4.3,Excellent quality and design,1
+Apple Tab X8,Apple,tablet,483,4.7,Works well but could be better,1
+Motorola Book 7,Motorola,laptop,420,4.3,Amazing experience overall,1
+Microsoft Tab A1,Microsoft,tablet,674,4.1,Great performance and battery life,1
+Realme Air 5,Realme,laptop,943,4.6,Great performance and battery life,1
+Google Pro 3,Google,laptop,1427,4.6,Amazing experience overall,1
+Xiaomi Tab X7,Xiaomi,tablet,291,4.9,Decent product for daily use,1
+HP Tab M4,HP,tablet,411,4.2,Excellent quality and design,1
+Samsung Tab S7,Samsung,tablet,781,3.5,Battery lasts long and smooth usage,0
+Huawei Flex 5,Huawei,laptop,561,3.7,Highly recommended product,0
+Dell X25,Dell,phone,1139,3.7,Works well but could be better,0
+Realme GT20,Realme,phone,707,4.4,Very good for the price,1
+OnePlus Tab S8,OnePlus,tablet,542,4.3,Excellent quality and design,1
+Asus Elite 15,Asus,laptop,913,4.7,Battery lasts long and smooth usage,1
+Google Tab M1,Google,tablet,231,4.5,Battery lasts long and smooth usage,1
+HP X8,HP,phone,349,3.7,Very good for the price,0
+Lenovo Tab S5,Lenovo,tablet,477,3.7,Decent product for daily use,0
+Microsoft Book 8,Microsoft,laptop,1135,4.4,Highly recommended product,1
+Huawei Air 15,Huawei,laptop,738,4.7,Battery lasts long and smooth usage,1
+Microsoft GT6,Microsoft,phone,784,4.0,Great performance and battery life,1
+HP Book 9,HP,laptop,815,4.1,Battery lasts long and smooth usage,1
+Motorola Tab M10,Motorola,tablet,599,3.7,Works well but could be better,0
+Apple Book 10,Apple,laptop,711,4.8,Fast and reliable device,1
+Huawei Elite 8,Huawei,laptop,699,4.6,Very good for the price,1
+MSI Tab M9,MSI,tablet,352,4.5,Fast and reliable device,1
+Apple X6,Apple,phone,389,3.8,Works well but could be better,0
+Realme Tab A3,Realme,tablet,490,4.7,Decent product for daily use,1
+Apple Tab M6,Apple,tablet,677,4.7,Very good for the price,1
+Google Tab S6,Google,tablet,297,4.1,Battery lasts long and smooth usage,1
+Realme X 15,Realme,laptop,642,3.8,Excellent quality and design,0
+Acer Tab S8,Acer,tablet,705,4.6,Very good for the price,1
+Motorola Flex 14,Motorola,laptop,1326,4.8,Not bad but has some issues,1
+Dell X23,Dell,phone,705,4.3,Not bad but has some issues,1
+Microsoft Elite 3,Microsoft,laptop,1248,5.0,Excellent quality and design,1
+Dell Tab A9,Dell,tablet,117,5.0,Fast and reliable device,1
+Lenovo Note1,Lenovo,phone,704,4.4,Battery lasts long and smooth usage,1
+Microsoft Tab A10,Microsoft,tablet,699,4.1,Highly recommended product,1
+Realme X11,Realme,phone,1149,4.3,Works well but could be better,1
+Lenovo Book 10,Lenovo,laptop,507,5.0,Great performance and battery life,1
+Google Air 13,Google,laptop,679,4.8,Not bad but has some issues,1
+MSI Tab A6,MSI,tablet,588,4.3,Not bad but has some issues,1
+Motorola Flex 12,Motorola,laptop,1356,3.9,Amazing experience overall,0
+Acer Book 11,Acer,laptop,1312,4.9,Not bad but has some issues,1
+Huawei Elite 13,Huawei,laptop,596,4.1,Fast and reliable device,1
+OnePlus Air 4,OnePlus,laptop,1140,4.1,Not bad but has some issues,1
+Samsung GT12,Samsung,phone,483,4.2,Very good for the price,1
+Google Pro 9,Google,laptop,911,4.7,Highly recommended product,1
+Microsoft Tab A5,Microsoft,tablet,208,3.7,Fast and reliable device,0
+Samsung Flex 3,Samsung,laptop,657,3.8,Very good for the price,0
+Xiaomi Note6,Xiaomi,phone,983,4.4,Fast and reliable device,1
+Acer Book 8,Acer,laptop,1320,4.7,Very good for the price,1
+Lenovo Book 6,Lenovo,laptop,1005,3.8,Battery lasts long and smooth usage,0
+Realme X 11,Realme,laptop,1362,4.9,Very good for the price,1
+Samsung GT12,Samsung,phone,1049,3.7,Excellent quality and design,0
+Acer GT28,Acer,phone,368,4.4,Amazing experience overall,1
+Huawei Air 11,Huawei,laptop,915,4.1,Works well but could be better,1
+Huawei Elite 6,Huawei,laptop,752,4.3,Very good for the price,1
+MSI Elite 12,MSI,laptop,1058,4.6,Highly recommended product,1
+Asus Tab A6,Asus,tablet,173,3.8,Highly recommended product,0
+Lenovo X 14,Lenovo,laptop,477,4.6,Works well but could be better,1
+Acer X18,Acer,phone,1142,4.6,Decent product for daily use,1
+Microsoft S24,Microsoft,phone,915,4.8,Works well but could be better,1
+Microsoft Tab M6,Microsoft,tablet,435,4.2,Excellent quality and design,1
+OnePlus Tab A8,OnePlus,tablet,589,3.7,Great performance and battery life,0
+Samsung Tab S4,Samsung,tablet,568,3.8,Fast and reliable device,0
+Xiaomi S2,Xiaomi,phone,911,3.6,Not bad but has some issues,0
+Asus S11,Asus,phone,663,4.7,Battery lasts long and smooth usage,1
+Apple Tab X4,Apple,tablet,402,3.8,Great performance and battery life,0
+Lenovo Tab S4,Lenovo,tablet,290,3.6,Amazing experience overall,0
+HP Air 8,HP,laptop,1434,3.6,Not bad but has some issues,0
+Realme Air 7,Realme,laptop,489,3.8,Amazing experience overall,0
+Asus Pro 9,Asus,laptop,807,3.9,Battery lasts long and smooth usage,0
+Motorola Elite 9,Motorola,laptop,528,4.7,Fast and reliable device,1
+Google Tab S10,Google,tablet,190,4.4,Great performance and battery life,1
+Asus Tab M9,Asus,tablet,783,3.8,Battery lasts long and smooth usage,0
+Samsung GT30,Samsung,phone,513,3.9,Great performance and battery life,0
+Samsung GT3,Samsung,phone,552,4.1,Decent product for daily use,1
+HP Tab S8,HP,tablet,502,4.0,Highly recommended product,1
+OnePlus Book 14,OnePlus,laptop,975,4.8,Fast and reliable device,1
+Apple Book 15,Apple,laptop,1049,4.4,Excellent quality and design,1
+MSI Book 3,MSI,laptop,1333,4.0,Excellent quality and design,1
+Google Tab X8,Google,tablet,793,4.2,Works well but could be better,1
+Huawei X22,Huawei,phone,491,4.3,Works well but could be better,1
+Samsung Book 8,Samsung,laptop,766,4.2,Amazing experience overall,1
+Apple Pro 8,Apple,laptop,1198,4.3,Highly recommended product,1
+OnePlus GT29,OnePlus,phone,903,3.6,Fast and reliable device,0
+Asus Tab S4,Asus,tablet,618,3.9,Highly recommended product,0
+HP Air 6,HP,laptop,1274,3.8,Excellent quality and design,0
+HP Air 12,HP,laptop,723,3.8,Amazing experience overall,0
+Apple Tab M4,Apple,tablet,682,4.8,Very good for the price,1
+Lenovo Tab X1,Lenovo,tablet,420,4.5,Not bad but has some issues,1
+HP Pro18,HP,phone,1011,3.9,Excellent quality and design,0
+Google GT21,Google,phone,1101,4.0,Works well but could be better,1
+Acer Tab X6,Acer,tablet,376,4.4,Amazing experience overall,1
+Huawei Air 10,Huawei,laptop,1172,3.9,Very good for the price,0
+Lenovo Elite 11,Lenovo,laptop,871,4.8,Fast and reliable device,1
+Acer Tab A9,Acer,tablet,397,4.0,Battery lasts long and smooth usage,1
+OnePlus Book 12,OnePlus,laptop,1434,4.8,Battery lasts long and smooth usage,1
+Samsung Flex 11,Samsung,laptop,864,4.9,Great performance and battery life,1
+Lenovo Tab S8,Lenovo,tablet,170,3.8,Works well but could be better,0
+Google Tab M8,Google,tablet,491,3.8,Excellent quality and design,0
+MSI Note26,MSI,phone,1130,3.7,Very good for the price,0
+HP Tab A8,HP,tablet,128,3.5,Decent product for daily use,0
+Microsoft Note21,Microsoft,phone,191,3.7,Fast and reliable device,0
+Motorola Tab S8,Motorola,tablet,617,4.7,Great performance and battery life,1
+Xiaomi Air 12,Xiaomi,laptop,889,3.6,Amazing experience overall,0
+Dell Note20,Dell,phone,996,4.4,Excellent quality and design,1
+Motorola Tab M2,Motorola,tablet,185,4.9,Works well but could be better,1
+Lenovo GT10,Lenovo,phone,665,3.9,Works well but could be better,0
+HP Tab M8,HP,tablet,180,3.8,Excellent quality and design,0
+Huawei Tab A4,Huawei,tablet,323,3.8,Decent product for daily use,0
+HP GT12,HP,phone,473,4.5,Decent product for daily use,1
+Apple Tab M2,Apple,tablet,500,4.6,Fast and reliable device,1
+Apple Pro 5,Apple,laptop,893,4.1,Great performance and battery life,1
+Xiaomi GT12,Xiaomi,phone,941,4.5,Decent product for daily use,1
+Dell Tab M2,Dell,tablet,181,4.1,Decent product for daily use,1
+Motorola Tab X5,Motorola,tablet,439,4.3,Fast and reliable device,1
+Lenovo Tab A7,Lenovo,tablet,721,4.7,Fast and reliable device,1
+Motorola Flex 7,Motorola,laptop,1374,5.0,Fast and reliable device,1
+MSI X 15,MSI,laptop,730,4.3,Works well but could be better,1
+Samsung Flex 12,Samsung,laptop,736,3.8,Not bad but has some issues,0
+Dell GT3,Dell,phone,516,3.6,Amazing experience overall,0
+Microsoft Air 14,Microsoft,laptop,998,4.7,Excellent quality and design,1
+Asus GT12,Asus,phone,236,4.9,Amazing experience overall,1
+Google Tab X2,Google,tablet,741,5.0,Battery lasts long and smooth usage,1
+Apple Air 14,Apple,laptop,1048,4.9,Not bad but has some issues,1
+Dell X 12,Dell,laptop,848,4.7,Battery lasts long and smooth usage,1
+Dell Tab S4,Dell,tablet,671,4.6,Great performance and battery life,1
+HP X 6,HP,laptop,552,3.9,Works well but could be better,0
+Acer S12,Acer,phone,772,3.7,Works well but could be better,0
+Realme Flex 8,Realme,laptop,652,4.4,Great performance and battery life,1
+Apple Tab M10,Apple,tablet,746,4.0,Highly recommended product,1
+Dell GT20,Dell,phone,802,5.0,Battery lasts long and smooth usage,1
+Xiaomi Tab X9,Xiaomi,tablet,718,4.7,Excellent quality and design,1
+Realme Tab A6,Realme,tablet,536,3.6,Great performance and battery life,0
+Motorola Pro6,Motorola,phone,166,4.7,Battery lasts long and smooth usage,1
+Lenovo Air 4,Lenovo,laptop,1283,3.5,Amazing experience overall,0
+Lenovo Note7,Lenovo,phone,669,3.9,Battery lasts long and smooth usage,0
+Dell Tab S10,Dell,tablet,285,4.3,Excellent quality and design,1
+Apple Pro 8,Apple,laptop,474,4.6,Excellent quality and design,1
+Google Tab X7,Google,tablet,684,4.1,Not bad but has some issues,1
+Motorola Air 5,Motorola,laptop,1248,4.4,Works well but could be better,1
+Apple Flex 11,Apple,laptop,405,4.1,Works well but could be better,1
+Google Tab S6,Google,tablet,412,3.6,Battery lasts long and smooth usage,0
+Lenovo Book 5,Lenovo,laptop,770,4.7,Decent product for daily use,1
+Motorola Tab M4,Motorola,tablet,200,3.9,Highly recommended product,0
+Huawei Tab S10,Huawei,tablet,255,5.0,Not bad but has some issues,1
+Acer Flex 15,Acer,laptop,423,4.0,Decent product for daily use,1
+Google Pro25,Google,phone,737,4.2,Amazing experience overall,1
+MSI Tab M3,MSI,tablet,425,4.9,Fast and reliable device,1
+Xiaomi Tab M6,Xiaomi,tablet,264,3.9,Decent product for daily use,0
+Motorola Tab X2,Motorola,tablet,757,4.0,Very good for the price,1
+Apple Book 9,Apple,laptop,1306,3.8,Great performance and battery life,0
+Huawei Note26,Huawei,phone,1176,4.5,Fast and reliable device,1
+Xiaomi X23,Xiaomi,phone,963,4.2,Fast and reliable device,1
+MSI Pro13,MSI,phone,656,4.3,Battery lasts long and smooth usage,1
+Acer Tab A5,Acer,tablet,181,3.6,Battery lasts long and smooth usage,0
+MSI Tab X10,MSI,tablet,320,4.1,Highly recommended product,1
+OnePlus S21,OnePlus,phone,314,4.1,Excellent quality and design,1
+OnePlus Elite 3,OnePlus,laptop,1164,4.7,Excellent quality and design,1
+Asus Air 13,Asus,laptop,816,3.6,Very good for the price,0
+Apple Flex 14,Apple,laptop,410,4.9,Fast and reliable device,1
+Asus Tab A8,Asus,tablet,211,3.7,Battery lasts long and smooth usage,0
+Realme Pro 15,Realme,laptop,517,4.5,Decent product for daily use,1
+Samsung Tab M4,Samsung,tablet,636,3.7,Very good for the price,0
+Lenovo Note1,Lenovo,phone,991,4.7,Battery lasts long and smooth usage,1
+Acer Tab A1,Acer,tablet,452,4.4,Amazing experience overall,1
+Lenovo X24,Lenovo,phone,346,4.5,Amazing experience overall,1
+MSI Tab S10,MSI,tablet,707,4.9,Very good for the price,1
+Motorola Pro 4,Motorola,laptop,444,4.4,Excellent quality and design,1
+HP Tab M2,HP,tablet,463,4.8,Works well but could be better,1
+Samsung Tab A3,Samsung,tablet,459,4.7,Fast and reliable device,1
+Microsoft Flex 9,Microsoft,laptop,1328,4.1,Very good for the price,1
+Microsoft Pro19,Microsoft,phone,594,4.0,Not bad but has some issues,1
+MSI Air 6,MSI,laptop,1223,4.5,Works well but could be better,1
+Xiaomi X29,Xiaomi,phone,995,4.8,Highly recommended product,1

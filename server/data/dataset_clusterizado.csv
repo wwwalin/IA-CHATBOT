@@ -1,0 +1,505 @@
+input,output,cluster
+hola,Hola 😊 ¿Qué producto estás buscando?,1
+hello,Hola 😊 ¿Qué producto estás buscando?,1
+hi,Hola 😊 ¿Qué producto estás buscando?,1
+buenas,Hola 😊 ¿Qué producto estás buscando?,1
+cual es buena laptop,Una buena laptop depende de tu presupuesto y uso,0
+recomiendame una laptop,Te recomiendo una laptop con buen rendimiento y batería,1
+que es una celular,Una celular es un dispositivo tecnológico muy útil,0
+quiero una celular,Claro 👍 ¿Para qué la necesitas?,1
+recomiendame una laptop,Te recomiendo una laptop con buen rendimiento y batería,1
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+quiero una laptop,Claro 👍 ¿Para qué la necesitas?,1
+que es una laptop,Una laptop es un dispositivo tecnológico muy útil,0
+cual es buena laptop,Una buena laptop depende de tu presupuesto y uso,0
+precio de laptop,Los precios de laptop varían bastante según la marca,2
+que es una celular,Una celular es un dispositivo tecnológico muy útil,0
+precio de celular,Los precios de celular varían bastante según la marca,2
+recomiendame una laptop,Te recomiendo una laptop con buen rendimiento y batería,1
+recomiendame una tablet,Te recomiendo una tablet con buen rendimiento y batería,1
+cual es buena laptop,Una buena laptop depende de tu presupuesto y uso,0
+quiero una celular,Claro 👍 ¿Para qué la necesitas?,1
+cual es buena laptop,Una buena laptop depende de tu presupuesto y uso,0
+precio de celular,Los precios de celular varían bastante según la marca,2
+precio de celular,Los precios de celular varían bastante según la marca,2
+precio de celular,Los precios de celular varían bastante según la marca,2
+que es una celular,Una celular es un dispositivo tecnológico muy útil,0
+cual es buena tablet,Una buena tablet depende de tu presupuesto y uso,0
+que es una tablet,Una tablet es un dispositivo tecnológico muy útil,0
+cual es buena laptop,Una buena laptop depende de tu presupuesto y uso,0
+precio de celular,Los precios de celular varían bastante según la marca,2
+que es una celular,Una celular es un dispositivo tecnológico muy útil,0
+recomiendame una laptop,Te recomiendo una laptop con buen rendimiento y batería,1
+precio de tablet,Los precios de tablet varían bastante según la marca,2
+que es una tablet,Una tablet es un dispositivo tecnológico muy útil,0
+cual es buena laptop,Una buena laptop depende de tu presupuesto y uso,0
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+cual es buena tablet,Una buena tablet depende de tu presupuesto y uso,0
+quiero una celular,Claro 👍 ¿Para qué la necesitas?,1
+quiero una laptop,Claro 👍 ¿Para qué la necesitas?,1
+quiero una laptop,Claro 👍 ¿Para qué la necesitas?,1
+recomiendame una celular,Te recomiendo una celular con buen rendimiento y batería,1
+precio de laptop,Los precios de laptop varían bastante según la marca,2
+cual es buena celular,Una buena celular depende de tu presupuesto y uso,0
+que es una celular,Una celular es un dispositivo tecnológico muy útil,0
+cual es buena laptop,Una buena laptop depende de tu presupuesto y uso,0
+precio de celular,Los precios de celular varían bastante según la marca,2
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+quiero una laptop,Claro 👍 ¿Para qué la necesitas?,1
+cual es buena celular,Una buena celular depende de tu presupuesto y uso,0
+que es una celular,Una celular es un dispositivo tecnológico muy útil,0
+quiero una celular,Claro 👍 ¿Para qué la necesitas?,1
+que es una laptop,Una laptop es un dispositivo tecnológico muy útil,0
+precio de celular,Los precios de celular varían bastante según la marca,2
+precio de celular,Los precios de celular varían bastante según la marca,2
+que es una celular,Una celular es un dispositivo tecnológico muy útil,0
+cual es buena tablet,Una buena tablet depende de tu presupuesto y uso,0
+precio de tablet,Los precios de tablet varían bastante según la marca,2
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+recomiendame una tablet,Te recomiendo una tablet con buen rendimiento y batería,1
+precio de laptop,Los precios de laptop varían bastante según la marca,2
+que es una laptop,Una laptop es un dispositivo tecnológico muy útil,0
+cual es buena laptop,Una buena laptop depende de tu presupuesto y uso,0
+cual es buena laptop,Una buena laptop depende de tu presupuesto y uso,0
+cual es buena celular,Una buena celular depende de tu presupuesto y uso,0
+cual es buena celular,Una buena celular depende de tu presupuesto y uso,0
+precio de tablet,Los precios de tablet varían bastante según la marca,2
+que es una celular,Una celular es un dispositivo tecnológico muy útil,0
+quiero una celular,Claro 👍 ¿Para qué la necesitas?,1
+quiero una laptop,Claro 👍 ¿Para qué la necesitas?,1
+cual es buena laptop,Una buena laptop depende de tu presupuesto y uso,0
+recomiendame una tablet,Te recomiendo una tablet con buen rendimiento y batería,1
+cual es buena tablet,Una buena tablet depende de tu presupuesto y uso,0
+que es una tablet,Una tablet es un dispositivo tecnológico muy útil,0
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+que es una laptop,Una laptop es un dispositivo tecnológico muy útil,0
+recomiendame una celular,Te recomiendo una celular con buen rendimiento y batería,1
+recomiendame una celular,Te recomiendo una celular con buen rendimiento y batería,1
+que es una laptop,Una laptop es un dispositivo tecnológico muy útil,0
+recomiendame una celular,Te recomiendo una celular con buen rendimiento y batería,1
+quiero una celular,Claro 👍 ¿Para qué la necesitas?,1
+que es una tablet,Una tablet es un dispositivo tecnológico muy útil,0
+precio de laptop,Los precios de laptop varían bastante según la marca,2
+precio de tablet,Los precios de tablet varían bastante según la marca,2
+quiero una celular,Claro 👍 ¿Para qué la necesitas?,1
+que es una celular,Una celular es un dispositivo tecnológico muy útil,0
+cual es buena laptop,Una buena laptop depende de tu presupuesto y uso,0
+cual es buena celular,Una buena celular depende de tu presupuesto y uso,0
+que es una celular,Una celular es un dispositivo tecnológico muy útil,0
+recomiendame una laptop,Te recomiendo una laptop con buen rendimiento y batería,1
+cual es buena laptop,Una buena laptop depende de tu presupuesto y uso,0
+cual es buena laptop,Una buena laptop depende de tu presupuesto y uso,0
+quiero una laptop,Claro 👍 ¿Para qué la necesitas?,1
+que es una celular,Una celular es un dispositivo tecnológico muy útil,0
+precio de tablet,Los precios de tablet varían bastante según la marca,2
+precio de tablet,Los precios de tablet varían bastante según la marca,2
+que es una laptop,Una laptop es un dispositivo tecnológico muy útil,0
+quiero una celular,Claro 👍 ¿Para qué la necesitas?,1
+quiero una celular,Claro 👍 ¿Para qué la necesitas?,1
+recomiendame una laptop,Te recomiendo una laptop con buen rendimiento y batería,1
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+recomiendame una tablet,Te recomiendo una tablet con buen rendimiento y batería,1
+que es una laptop,Una laptop es un dispositivo tecnológico muy útil,0
+recomiendame una celular,Te recomiendo una celular con buen rendimiento y batería,1
+recomiendame una laptop,Te recomiendo una laptop con buen rendimiento y batería,1
+recomiendame una celular,Te recomiendo una celular con buen rendimiento y batería,1
+que es una tablet,Una tablet es un dispositivo tecnológico muy útil,0
+recomiendame una laptop,Te recomiendo una laptop con buen rendimiento y batería,1
+que es una celular,Una celular es un dispositivo tecnológico muy útil,0
+cual es buena tablet,Una buena tablet depende de tu presupuesto y uso,0
+recomiendame una tablet,Te recomiendo una tablet con buen rendimiento y batería,1
+cual es buena tablet,Una buena tablet depende de tu presupuesto y uso,0
+precio de tablet,Los precios de tablet varían bastante según la marca,2
+precio de laptop,Los precios de laptop varían bastante según la marca,2
+recomiendame una tablet,Te recomiendo una tablet con buen rendimiento y batería,1
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+cual es buena celular,Una buena celular depende de tu presupuesto y uso,0
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+recomiendame una laptop,Te recomiendo una laptop con buen rendimiento y batería,1
+recomiendame una celular,Te recomiendo una celular con buen rendimiento y batería,1
+recomiendame una tablet,Te recomiendo una tablet con buen rendimiento y batería,1
+precio de tablet,Los precios de tablet varían bastante según la marca,2
+cual es buena tablet,Una buena tablet depende de tu presupuesto y uso,0
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+que es una celular,Una celular es un dispositivo tecnológico muy útil,0
+que es una celular,Una celular es un dispositivo tecnológico muy útil,0
+quiero una laptop,Claro 👍 ¿Para qué la necesitas?,1
+cual es buena celular,Una buena celular depende de tu presupuesto y uso,0
+precio de tablet,Los precios de tablet varían bastante según la marca,2
+que es una laptop,Una laptop es un dispositivo tecnológico muy útil,0
+recomiendame una laptop,Te recomiendo una laptop con buen rendimiento y batería,1
+cual es buena laptop,Una buena laptop depende de tu presupuesto y uso,0
+que es una laptop,Una laptop es un dispositivo tecnológico muy útil,0
+que es una laptop,Una laptop es un dispositivo tecnológico muy útil,0
+recomiendame una tablet,Te recomiendo una tablet con buen rendimiento y batería,1
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+que es una laptop,Una laptop es un dispositivo tecnológico muy útil,0
+recomiendame una celular,Te recomiendo una celular con buen rendimiento y batería,1
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+cual es buena celular,Una buena celular depende de tu presupuesto y uso,0
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+cual es buena tablet,Una buena tablet depende de tu presupuesto y uso,0
+que es una celular,Una celular es un dispositivo tecnológico muy útil,0
+que es una laptop,Una laptop es un dispositivo tecnológico muy útil,0
+precio de tablet,Los precios de tablet varían bastante según la marca,2
+precio de laptop,Los precios de laptop varían bastante según la marca,2
+precio de tablet,Los precios de tablet varían bastante según la marca,2
+precio de tablet,Los precios de tablet varían bastante según la marca,2
+cual es buena celular,Una buena celular depende de tu presupuesto y uso,0
+precio de tablet,Los precios de tablet varían bastante según la marca,2
+recomiendame una celular,Te recomiendo una celular con buen rendimiento y batería,1
+quiero una laptop,Claro 👍 ¿Para qué la necesitas?,1
+cual es buena celular,Una buena celular depende de tu presupuesto y uso,0
+precio de laptop,Los precios de laptop varían bastante según la marca,2
+que es una celular,Una celular es un dispositivo tecnológico muy útil,0
+recomiendame una laptop,Te recomiendo una laptop con buen rendimiento y batería,1
+recomiendame una celular,Te recomiendo una celular con buen rendimiento y batería,1
+recomiendame una laptop,Te recomiendo una laptop con buen rendimiento y batería,1
+recomiendame una laptop,Te recomiendo una laptop con buen rendimiento y batería,1
+cual es buena laptop,Una buena laptop depende de tu presupuesto y uso,0
+precio de tablet,Los precios de tablet varían bastante según la marca,2
+quiero una laptop,Claro 👍 ¿Para qué la necesitas?,1
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+recomiendame una celular,Te recomiendo una celular con buen rendimiento y batería,1
+que es una laptop,Una laptop es un dispositivo tecnológico muy útil,0
+que es una celular,Una celular es un dispositivo tecnológico muy útil,0
+cual es buena celular,Una buena celular depende de tu presupuesto y uso,0
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+precio de laptop,Los precios de laptop varían bastante según la marca,2
+precio de tablet,Los precios de tablet varían bastante según la marca,2
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+recomiendame una laptop,Te recomiendo una laptop con buen rendimiento y batería,1
+quiero una laptop,Claro 👍 ¿Para qué la necesitas?,1
+recomiendame una tablet,Te recomiendo una tablet con buen rendimiento y batería,1
+que es una celular,Una celular es un dispositivo tecnológico muy útil,0
+que es una celular,Una celular es un dispositivo tecnológico muy útil,0
+que es una tablet,Una tablet es un dispositivo tecnológico muy útil,0
+cual es buena laptop,Una buena laptop depende de tu presupuesto y uso,0
+que es una celular,Una celular es un dispositivo tecnológico muy útil,0
+quiero una celular,Claro 👍 ¿Para qué la necesitas?,1
+cual es buena tablet,Una buena tablet depende de tu presupuesto y uso,0
+recomiendame una laptop,Te recomiendo una laptop con buen rendimiento y batería,1
+que es una tablet,Una tablet es un dispositivo tecnológico muy útil,0
+recomiendame una tablet,Te recomiendo una tablet con buen rendimiento y batería,1
+cual es buena celular,Una buena celular depende de tu presupuesto y uso,0
+cual es buena laptop,Una buena laptop depende de tu presupuesto y uso,0
+quiero una laptop,Claro 👍 ¿Para qué la necesitas?,1
+recomiendame una laptop,Te recomiendo una laptop con buen rendimiento y batería,1
+recomiendame una laptop,Te recomiendo una laptop con buen rendimiento y batería,1
+cual es buena tablet,Una buena tablet depende de tu presupuesto y uso,0
+que es una laptop,Una laptop es un dispositivo tecnológico muy útil,0
+recomiendame una tablet,Te recomiendo una tablet con buen rendimiento y batería,1
+cual es buena laptop,Una buena laptop depende de tu presupuesto y uso,0
+que es una laptop,Una laptop es un dispositivo tecnológico muy útil,0
+quiero una laptop,Claro 👍 ¿Para qué la necesitas?,1
+precio de celular,Los precios de celular varían bastante según la marca,2
+quiero una laptop,Claro 👍 ¿Para qué la necesitas?,1
+que es una laptop,Una laptop es un dispositivo tecnológico muy útil,0
+recomiendame una tablet,Te recomiendo una tablet con buen rendimiento y batería,1
+recomiendame una tablet,Te recomiendo una tablet con buen rendimiento y batería,1
+recomiendame una tablet,Te recomiendo una tablet con buen rendimiento y batería,1
+recomiendame una laptop,Te recomiendo una laptop con buen rendimiento y batería,1
+precio de laptop,Los precios de laptop varían bastante según la marca,2
+precio de tablet,Los precios de tablet varían bastante según la marca,2
+que es una celular,Una celular es un dispositivo tecnológico muy útil,0
+precio de celular,Los precios de celular varían bastante según la marca,2
+precio de laptop,Los precios de laptop varían bastante según la marca,2
+precio de tablet,Los precios de tablet varían bastante según la marca,2
+precio de celular,Los precios de celular varían bastante según la marca,2
+recomiendame una tablet,Te recomiendo una tablet con buen rendimiento y batería,1
+quiero una laptop,Claro 👍 ¿Para qué la necesitas?,1
+que es una tablet,Una tablet es un dispositivo tecnológico muy útil,0
+cual es buena laptop,Una buena laptop depende de tu presupuesto y uso,0
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+cual es buena laptop,Una buena laptop depende de tu presupuesto y uso,0
+precio de tablet,Los precios de tablet varían bastante según la marca,2
+precio de laptop,Los precios de laptop varían bastante según la marca,2
+que es una tablet,Una tablet es un dispositivo tecnológico muy útil,0
+recomiendame una laptop,Te recomiendo una laptop con buen rendimiento y batería,1
+recomiendame una celular,Te recomiendo una celular con buen rendimiento y batería,1
+cual es buena tablet,Una buena tablet depende de tu presupuesto y uso,0
+cual es buena laptop,Una buena laptop depende de tu presupuesto y uso,0
+recomiendame una celular,Te recomiendo una celular con buen rendimiento y batería,1
+que es una laptop,Una laptop es un dispositivo tecnológico muy útil,0
+precio de laptop,Los precios de laptop varían bastante según la marca,2
+que es una tablet,Una tablet es un dispositivo tecnológico muy útil,0
+precio de celular,Los precios de celular varían bastante según la marca,2
+quiero una celular,Claro 👍 ¿Para qué la necesitas?,1
+precio de celular,Los precios de celular varían bastante según la marca,2
+recomiendame una laptop,Te recomiendo una laptop con buen rendimiento y batería,1
+que es una laptop,Una laptop es un dispositivo tecnológico muy útil,0
+recomiendame una celular,Te recomiendo una celular con buen rendimiento y batería,1
+precio de tablet,Los precios de tablet varían bastante según la marca,2
+precio de celular,Los precios de celular varían bastante según la marca,2
+precio de laptop,Los precios de laptop varían bastante según la marca,2
+recomiendame una tablet,Te recomiendo una tablet con buen rendimiento y batería,1
+precio de celular,Los precios de celular varían bastante según la marca,2
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+quiero una laptop,Claro 👍 ¿Para qué la necesitas?,1
+quiero una celular,Claro 👍 ¿Para qué la necesitas?,1
+recomiendame una celular,Te recomiendo una celular con buen rendimiento y batería,1
+quiero una celular,Claro 👍 ¿Para qué la necesitas?,1
+cual es buena celular,Una buena celular depende de tu presupuesto y uso,0
+recomiendame una laptop,Te recomiendo una laptop con buen rendimiento y batería,1
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+quiero una celular,Claro 👍 ¿Para qué la necesitas?,1
+recomiendame una laptop,Te recomiendo una laptop con buen rendimiento y batería,1
+recomiendame una celular,Te recomiendo una celular con buen rendimiento y batería,1
+que es una tablet,Una tablet es un dispositivo tecnológico muy útil,0
+precio de laptop,Los precios de laptop varían bastante según la marca,2
+que es una tablet,Una tablet es un dispositivo tecnológico muy útil,0
+recomiendame una laptop,Te recomiendo una laptop con buen rendimiento y batería,1
+recomiendame una tablet,Te recomiendo una tablet con buen rendimiento y batería,1
+recomiendame una celular,Te recomiendo una celular con buen rendimiento y batería,1
+cual es buena laptop,Una buena laptop depende de tu presupuesto y uso,0
+quiero una celular,Claro 👍 ¿Para qué la necesitas?,1
+precio de tablet,Los precios de tablet varían bastante según la marca,2
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+recomiendame una tablet,Te recomiendo una tablet con buen rendimiento y batería,1
+precio de laptop,Los precios de laptop varían bastante según la marca,2
+precio de tablet,Los precios de tablet varían bastante según la marca,2
+precio de celular,Los precios de celular varían bastante según la marca,2
+quiero una celular,Claro 👍 ¿Para qué la necesitas?,1
+que es una laptop,Una laptop es un dispositivo tecnológico muy útil,0
+precio de tablet,Los precios de tablet varían bastante según la marca,2
+recomiendame una celular,Te recomiendo una celular con buen rendimiento y batería,1
+que es una celular,Una celular es un dispositivo tecnológico muy útil,0
+cual es buena laptop,Una buena laptop depende de tu presupuesto y uso,0
+recomiendame una celular,Te recomiendo una celular con buen rendimiento y batería,1
+que es una laptop,Una laptop es un dispositivo tecnológico muy útil,0
+que es una laptop,Una laptop es un dispositivo tecnológico muy útil,0
+precio de celular,Los precios de celular varían bastante según la marca,2
+quiero una celular,Claro 👍 ¿Para qué la necesitas?,1
+precio de laptop,Los precios de laptop varían bastante según la marca,2
+que es una laptop,Una laptop es un dispositivo tecnológico muy útil,0
+cual es buena tablet,Una buena tablet depende de tu presupuesto y uso,0
+que es una tablet,Una tablet es un dispositivo tecnológico muy útil,0
+precio de tablet,Los precios de tablet varían bastante según la marca,2
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+cual es buena laptop,Una buena laptop depende de tu presupuesto y uso,0
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+cual es buena tablet,Una buena tablet depende de tu presupuesto y uso,0
+precio de celular,Los precios de celular varían bastante según la marca,2
+cual es buena tablet,Una buena tablet depende de tu presupuesto y uso,0
+precio de laptop,Los precios de laptop varían bastante según la marca,2
+que es una tablet,Una tablet es un dispositivo tecnológico muy útil,0
+quiero una celular,Claro 👍 ¿Para qué la necesitas?,1
+que es una tablet,Una tablet es un dispositivo tecnológico muy útil,0
+recomiendame una celular,Te recomiendo una celular con buen rendimiento y batería,1
+quiero una celular,Claro 👍 ¿Para qué la necesitas?,1
+que es una laptop,Una laptop es un dispositivo tecnológico muy útil,0
+que es una laptop,Una laptop es un dispositivo tecnológico muy útil,0
+que es una laptop,Una laptop es un dispositivo tecnológico muy útil,0
+precio de tablet,Los precios de tablet varían bastante según la marca,2
+cual es buena laptop,Una buena laptop depende de tu presupuesto y uso,0
+quiero una laptop,Claro 👍 ¿Para qué la necesitas?,1
+precio de laptop,Los precios de laptop varían bastante según la marca,2
+recomiendame una laptop,Te recomiendo una laptop con buen rendimiento y batería,1
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+precio de laptop,Los precios de laptop varían bastante según la marca,2
+cual es buena tablet,Una buena tablet depende de tu presupuesto y uso,0
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+que es una celular,Una celular es un dispositivo tecnológico muy útil,0
+que es una tablet,Una tablet es un dispositivo tecnológico muy útil,0
+cual es buena tablet,Una buena tablet depende de tu presupuesto y uso,0
+recomiendame una celular,Te recomiendo una celular con buen rendimiento y batería,1
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+que es una tablet,Una tablet es un dispositivo tecnológico muy útil,0
+quiero una laptop,Claro 👍 ¿Para qué la necesitas?,1
+cual es buena tablet,Una buena tablet depende de tu presupuesto y uso,0
+precio de tablet,Los precios de tablet varían bastante según la marca,2
+quiero una laptop,Claro 👍 ¿Para qué la necesitas?,1
+quiero una laptop,Claro 👍 ¿Para qué la necesitas?,1
+recomiendame una laptop,Te recomiendo una laptop con buen rendimiento y batería,1
+que es una laptop,Una laptop es un dispositivo tecnológico muy útil,0
+quiero una celular,Claro 👍 ¿Para qué la necesitas?,1
+recomiendame una laptop,Te recomiendo una laptop con buen rendimiento y batería,1
+recomiendame una tablet,Te recomiendo una tablet con buen rendimiento y batería,1
+quiero una laptop,Claro 👍 ¿Para qué la necesitas?,1
+recomiendame una laptop,Te recomiendo una laptop con buen rendimiento y batería,1
+que es una celular,Una celular es un dispositivo tecnológico muy útil,0
+recomiendame una celular,Te recomiendo una celular con buen rendimiento y batería,1
+recomiendame una celular,Te recomiendo una celular con buen rendimiento y batería,1
+que es una tablet,Una tablet es un dispositivo tecnológico muy útil,0
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+cual es buena tablet,Una buena tablet depende de tu presupuesto y uso,0
+quiero una celular,Claro 👍 ¿Para qué la necesitas?,1
+que es una celular,Una celular es un dispositivo tecnológico muy útil,0
+que es una laptop,Una laptop es un dispositivo tecnológico muy útil,0
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+cual es buena celular,Una buena celular depende de tu presupuesto y uso,0
+quiero una celular,Claro 👍 ¿Para qué la necesitas?,1
+recomiendame una celular,Te recomiendo una celular con buen rendimiento y batería,1
+recomiendame una laptop,Te recomiendo una laptop con buen rendimiento y batería,1
+quiero una celular,Claro 👍 ¿Para qué la necesitas?,1
+recomiendame una tablet,Te recomiendo una tablet con buen rendimiento y batería,1
+recomiendame una celular,Te recomiendo una celular con buen rendimiento y batería,1
+cual es buena tablet,Una buena tablet depende de tu presupuesto y uso,0
+quiero una laptop,Claro 👍 ¿Para qué la necesitas?,1
+quiero una celular,Claro 👍 ¿Para qué la necesitas?,1
+cual es buena celular,Una buena celular depende de tu presupuesto y uso,0
+recomiendame una tablet,Te recomiendo una tablet con buen rendimiento y batería,1
+precio de tablet,Los precios de tablet varían bastante según la marca,2
+recomiendame una celular,Te recomiendo una celular con buen rendimiento y batería,1
+precio de laptop,Los precios de laptop varían bastante según la marca,2
+precio de celular,Los precios de celular varían bastante según la marca,2
+recomiendame una laptop,Te recomiendo una laptop con buen rendimiento y batería,1
+precio de laptop,Los precios de laptop varían bastante según la marca,2
+recomiendame una laptop,Te recomiendo una laptop con buen rendimiento y batería,1
+precio de tablet,Los precios de tablet varían bastante según la marca,2
+que es una celular,Una celular es un dispositivo tecnológico muy útil,0
+que es una laptop,Una laptop es un dispositivo tecnológico muy útil,0
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+quiero una celular,Claro 👍 ¿Para qué la necesitas?,1
+precio de celular,Los precios de celular varían bastante según la marca,2
+cual es buena celular,Una buena celular depende de tu presupuesto y uso,0
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+que es una tablet,Una tablet es un dispositivo tecnológico muy útil,0
+precio de tablet,Los precios de tablet varían bastante según la marca,2
+precio de laptop,Los precios de laptop varían bastante según la marca,2
+que es una laptop,Una laptop es un dispositivo tecnológico muy útil,0
+recomiendame una laptop,Te recomiendo una laptop con buen rendimiento y batería,1
+precio de tablet,Los precios de tablet varían bastante según la marca,2
+cual es buena laptop,Una buena laptop depende de tu presupuesto y uso,0
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+cual es buena celular,Una buena celular depende de tu presupuesto y uso,0
+recomiendame una laptop,Te recomiendo una laptop con buen rendimiento y batería,1
+que es una tablet,Una tablet es un dispositivo tecnológico muy útil,0
+recomiendame una celular,Te recomiendo una celular con buen rendimiento y batería,1
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+cual es buena tablet,Una buena tablet depende de tu presupuesto y uso,0
+que es una tablet,Una tablet es un dispositivo tecnológico muy útil,0
+que es una celular,Una celular es un dispositivo tecnológico muy útil,0
+cual es buena celular,Una buena celular depende de tu presupuesto y uso,0
+precio de tablet,Los precios de tablet varían bastante según la marca,2
+precio de laptop,Los precios de laptop varían bastante según la marca,2
+que es una laptop,Una laptop es un dispositivo tecnológico muy útil,0
+cual es buena celular,Una buena celular depende de tu presupuesto y uso,0
+precio de celular,Los precios de celular varían bastante según la marca,2
+cual es buena tablet,Una buena tablet depende de tu presupuesto y uso,0
+cual es buena celular,Una buena celular depende de tu presupuesto y uso,0
+que es una celular,Una celular es un dispositivo tecnológico muy útil,0
+precio de laptop,Los precios de laptop varían bastante según la marca,2
+cual es buena laptop,Una buena laptop depende de tu presupuesto y uso,0
+precio de laptop,Los precios de laptop varían bastante según la marca,2
+que es una tablet,Una tablet es un dispositivo tecnológico muy útil,0
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+precio de tablet,Los precios de tablet varían bastante según la marca,2
+precio de tablet,Los precios de tablet varían bastante según la marca,2
+precio de tablet,Los precios de tablet varían bastante según la marca,2
+quiero una tablet,Claro 👍 ¿Para qué la necesitas?,1
+que es una celular,Una celular es un dispositivo tecnológico muy útil,0
+quiero una celular,Claro 👍 ¿Para qué la necesitas?,1
+cual es buena celular,Una buena celular depende de tu presupuesto y uso,0
+recomiendame una laptop,Te recomiendo una laptop con buen rendimiento y batería,1
+precio de laptop,Los precios de laptop varían bastante según la marca,2
+que es una celular,Una celular es un dispositivo tecnológico muy útil,0
+cual es buena tablet,Una buena tablet depende de tu presupuesto y uso,0
+cual es buena celular,Una buena celular depende de tu presupuesto y uso,0
+recomiendame una laptop,Te recomiendo una laptop con buen rendimiento y batería,1
+cual es buena celular,Una buena celular depende de tu presupuesto y uso,0
+recomiendame una celular,Te recomiendo una celular con buen rendimiento y batería,1
+busco calidad,Busca marcas reconocidas con buen rating,1
+busco calidad,Busca marcas reconocidas con buen rating,1
+busco calidad,Busca marcas reconocidas con buen rating,1
+busco calidad,Busca marcas reconocidas con buen rating,1
+quiero algo caro,Hay opciones premium con mejores características,1
+quiero algo barato,Te puedo recomendar algo económico con buena calidad,1
+bye,Hasta luego 👋,1
+busco calidad,Busca marcas reconocidas con buen rating,1
+quiero ver opiniones,Puedo mostrarte opiniones reales de usuarios,1
+quiero algo caro,Hay opciones premium con mejores características,1
+bye,Hasta luego 👋,1
+gracias,De nada 😊 estoy aquí para ayudarte,1
+busco calidad,Busca marcas reconocidas con buen rating,1
+no me gusta,Entiendo 😅 puedo buscarte otra opción,1
+no funciona,Intentemos con otro producto mejor,1
+busco calidad,Busca marcas reconocidas con buen rating,1
+no me gusta,Entiendo 😅 puedo buscarte otra opción,1
+no me gusta,Entiendo 😅 puedo buscarte otra opción,1
+gracias,De nada 😊 estoy aquí para ayudarte,1
+no funciona,Intentemos con otro producto mejor,1
+no me gusta,Entiendo 😅 puedo buscarte otra opción,1
+busco rendimiento,Busca dispositivos con buen procesador,1
+bye,Hasta luego 👋,1
+quiero algo caro,Hay opciones premium con mejores características,1
+quiero algo barato,Te puedo recomendar algo económico con buena calidad,1
+quiero algo caro,Hay opciones premium con mejores características,1
+quiero algo caro,Hay opciones premium con mejores características,1
+quiero algo barato,Te puedo recomendar algo económico con buena calidad,1
+no funciona,Intentemos con otro producto mejor,1
+quiero algo barato,Te puedo recomendar algo económico con buena calidad,1
+no funciona,Intentemos con otro producto mejor,1
+busco rendimiento,Busca dispositivos con buen procesador,1
+busco rendimiento,Busca dispositivos con buen procesador,1
+busco rendimiento,Busca dispositivos con buen procesador,1
+busco rendimiento,Busca dispositivos con buen procesador,1
+quiero ver opiniones,Puedo mostrarte opiniones reales de usuarios,1
+no me gusta,Entiendo 😅 puedo buscarte otra opción,1
+no me gusta,Entiendo 😅 puedo buscarte otra opción,1
+no funciona,Intentemos con otro producto mejor,1
+no funciona,Intentemos con otro producto mejor,1
+quiero ver opiniones,Puedo mostrarte opiniones reales de usuarios,1
+no me gusta,Entiendo 😅 puedo buscarte otra opción,1
+busco rendimiento,Busca dispositivos con buen procesador,1
+gracias,De nada 😊 estoy aquí para ayudarte,1
+busco rendimiento,Busca dispositivos con buen procesador,1
+quiero algo barato,Te puedo recomendar algo económico con buena calidad,1
+quiero algo caro,Hay opciones premium con mejores características,1
+no me gusta,Entiendo 😅 puedo buscarte otra opción,1
+no me gusta,Entiendo 😅 puedo buscarte otra opción,1
+no me gusta,Entiendo 😅 puedo buscarte otra opción,1
+gracias,De nada 😊 estoy aquí para ayudarte,1
+busco calidad,Busca marcas reconocidas con buen rating,1
+bye,Hasta luego 👋,1
+busco rendimiento,Busca dispositivos con buen procesador,1
+quiero algo barato,Te puedo recomendar algo económico con buena calidad,1
+quiero algo barato,Te puedo recomendar algo económico con buena calidad,1
+quiero algo caro,Hay opciones premium con mejores características,1
+busco calidad,Busca marcas reconocidas con buen rating,1
+quiero algo barato,Te puedo recomendar algo económico con buena calidad,1
+quiero algo barato,Te puedo recomendar algo económico con buena calidad,1
+quiero algo caro,Hay opciones premium con mejores características,1
+busco rendimiento,Busca dispositivos con buen procesador,1
+gracias,De nada 😊 estoy aquí para ayudarte,1
+quiero algo caro,Hay opciones premium con mejores características,1
+gracias,De nada 😊 estoy aquí para ayudarte,1
+quiero algo barato,Te puedo recomendar algo económico con buena calidad,1
+quiero algo caro,Hay opciones premium con mejores características,1
+busco calidad,Busca marcas reconocidas con buen rating,1
+quiero algo barato,Te puedo recomendar algo económico con buena calidad,1
+busco rendimiento,Busca dispositivos con buen procesador,1
+busco calidad,Busca marcas reconocidas con buen rating,1
+gracias,De nada 😊 estoy aquí para ayudarte,1
+quiero algo barato,Te puedo recomendar algo económico con buena calidad,1
+busco calidad,Busca marcas reconocidas con buen rating,1
+busco calidad,Busca marcas reconocidas con buen rating,1
+quiero ver opiniones,Puedo mostrarte opiniones reales de usuarios,1
+bye,Hasta luego 👋,1
+quiero algo caro,Hay opciones premium con mejores características,1
+no me gusta,Entiendo 😅 puedo buscarte otra opción,1
+quiero algo barato,Te puedo recomendar algo económico con buena calidad,1
+no funciona,Intentemos con otro producto mejor,1
+no funciona,Intentemos con otro producto mejor,1
+gracias,De nada 😊 estoy aquí para ayudarte,1
+gracias,De nada 😊 estoy aquí para ayudarte,1
+busco rendimiento,Busca dispositivos con buen procesador,1
+quiero algo barato,Te puedo recomendar algo económico con buena calidad,1
+quiero ver opiniones,Puedo mostrarte opiniones reales de usuarios,1
+gracias,De nada 😊 estoy aquí para ayudarte,1
+quiero algo barato,Te puedo recomendar algo económico con buena calidad,1
+quiero ver opiniones,Puedo mostrarte opiniones reales de usuarios,1
+no me gusta,Entiendo 😅 puedo buscarte otra opción,1
+quiero algo caro,Hay opciones premium con mejores características,1
+no funciona,Intentemos con otro producto mejor,1
+gracias,De nada 😊 estoy aquí para ayudarte,1
+bye,Hasta luego 👋,1
+quiero algo caro,Hay opciones premium con mejores características,1
+quiero algo barato,Te puedo recomendar algo económico con buena calidad,1
+busco rendimiento,Busca dispositivos con buen procesador,1
+quiero algo caro,Hay opciones premium con mejores características,1
+no me gusta,Entiendo 😅 puedo buscarte otra opción,1
